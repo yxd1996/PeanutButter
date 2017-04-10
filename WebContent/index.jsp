@@ -105,7 +105,7 @@
 				<div class="row clearfix">
 					<div class="col-md-12 column">分区二</div>
 				</div>
-				<div class="row clearfix">
+				<div class="row clearfix portImg">
 					<div class="col-md-3 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓		
 					</div><div class="col-md-3 column">
@@ -119,7 +119,7 @@
 				<div class="row clearfix">
 					<div class="col-md-12 column">分区三</div>
 				</div>
-				<div class="row clearfix">
+				<div class="row clearfix portImg">
 					<div class="col-md-3 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓		
 					</div><div class="col-md-3 column">
