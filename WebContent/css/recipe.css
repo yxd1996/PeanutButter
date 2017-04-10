@@ -79,6 +79,16 @@ body{
 	height:300px;
 }
 
+.meterial_table{
+	width:50%;
+	font-size:15px;
+}
+
+.cailiao{
+	font-size:20px;
+	font-weight:bold;
+}
+
 .startnow_btn{
 	width:70%;
 	height:60px;
@@ -105,9 +115,9 @@ body{
 
 .comment_btn{
 	float:right;
-	margin-top:15px;
-	width:15%;
-	height:40px;
+	margin-top:10px;
+	width:12%;
+	height:36px;
 }
 
 .commentslist_li {
@@ -119,7 +129,7 @@ body{
 	margin-top:5px;
 	margin-left:2%;
 	width:96%;
-	height:80px;
+	height:100px;
 }
 
 .comment_name{
