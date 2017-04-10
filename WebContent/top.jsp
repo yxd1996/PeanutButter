@@ -1,10 +1,20 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 <div class="row clearfix header">
+	<div class="col-md-12 column">
+		<div class=" top_right">
+			<ul>
+				<li><a href="register.html">登录</a></li> |
+				<li><a href="login.html">注册</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="row clearfix">
 	<div class="col-md-3 column">
 		<div class="logo">
 			<h1>
-				<a href="index.html">Peanut Butter</a>
+				<a href="index.html">花生酱</a>
 			</h1>
 		</div>
 	</div>
@@ -21,12 +31,5 @@
 			</form>
 		</div>
 	</div>
-	<div class="col-md-3 column">
-		<div class="top_right">
-			<ul>
-				<li><a href="register.html">登录</a></li>|
-				<li><a href="login.html">注册</a></li>
-			</ul>
-		</div>
-	</div>
+	<div class="col-md-3 column"></div>
 </div>
