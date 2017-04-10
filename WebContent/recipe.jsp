@@ -15,7 +15,7 @@
 <div class="container">
 
 	<%@include file="top.jsp" %>
-<!-- ——————————————————个人信息部分 ——————————————————-->
+<!-- ——————————————————个人信息部分 开始——————————————————-->
 		<div class="row clearfix">
 		<div class="col-md-2 column">
 			 
@@ -26,10 +26,10 @@
 			</p>
 			<button type="button" class="btn btn-default btn-success focus_btn">关注TA</button>
 		</div>
-<!-- ——————————————————个人信息部分 ——————————————————-->
+<!-- ——————————————————个人信息部分 结束——————————————————-->
 
-<!-- ——————————————————主体制作部分—————————————————— -->
-		<div class="col-md-8 column text-top">
+<!-- ——————————————————主体制作部分 开始—————————————————— -->
+		<div class="col-md-9 column text-top">
 			<div class="row clearfix">
 				<div class="col-md-10 column">
 					<h3>
@@ -48,6 +48,115 @@
 			<p class="words_ahead buzhou_padding">
 				 【导语】核桃仁含有较多的蛋白质及人体营养必需的不饱和脂肪酸，这些成分皆为大脑组织细胞代谢的重要物质，能滋养脑细胞，增强脑功能可增加皮脂分泌，改善皮肤弹性，保持皮肤细腻，延缓衰老，并迅速补充体力。
 			</p>
+			
+			<div class="row clearfix buzhou_padding">
+				<div class="col-md-1 column cailiao">
+					材料
+				</div>
+				<div class="col-md-11 column ">
+				<table class="table table-bordered table-condensed meterial_table">
+				<colgroup>
+         			<col style="width:50%">
+        		 	<col style="width:50%">
+         		</colgroup>
+				<thead>
+					<tr>
+						<th>食材</th>
+						<th>数量</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>核桃仁</td>
+						<td>60g</td>
+					</tr>
+					<tr>
+						<td>低筋面粉</td>
+						<td>110g</td>
+					</tr>
+					<tr>
+						<td>玉米油</td>
+						<td>50g</td>
+					</tr>
+					<tr>
+						<td>鸡蛋液</td>
+						<td>20g</td>
+					</tr>
+					<tr>
+						<td>糖粉</td>
+						<td>30g</td>
+					</tr>
+					<tr>
+						<td>小苏打</td>
+						<td>1g</td>
+					</tr>
+					<tr>
+						<td>泡打粉</td>
+						<td>1g</td>
+					</tr>
+					<tr>
+						<td>盐</td>
+						<td>1g</td>
+					</tr>
+					<tr>
+						<td>黑芝麻</td>
+						<td>10g</td>
+					</tr>
+					<tr>
+						<td>刷液用鸡蛋液</td>
+						<td>5g</td>
+					</tr>
+				</tbody>
+			</table>
+				</div>
+			</div>
+			
+			<div class="row clearfix buzhou_padding">
+				<div class="col-md-1 column cailiao">
+					工具
+				</div>
+				<div class="col-md-11 column ">
+				<table class="table table-bordered table-condensed meterial_table">
+				<colgroup>
+         			<col style="width:50%">
+        		 	<col style="width:50%">
+         		</colgroup>
+				<thead>
+					<tr>
+						<th>工具</th>
+						<th>数量</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>擀面杖</td>
+						<td>1</td>
+					</tr>
+					<tr>
+						<td>打蛋器</td>
+						<td>1</td>
+					</tr>
+					<tr>
+						<td>保鲜膜</td>
+						<td>1</td>
+					</tr>
+					<tr>
+						<td>硅胶刮刀</td>
+						<td>1</td>
+					</tr>
+					<tr>
+						<td>烤箱</td>
+						<td>1</td>
+					</tr>
+					<tr>
+						<td>盆</td>
+						<td>若干</td>
+					</tr>
+				</tbody>
+			</table>
+				</div>
+			</div>
+			
 			<div class="row clearfix buzhou_padding">
 				<div class="col-md-1 column buzhou">
 					1.
@@ -225,7 +334,7 @@
 				</div>
 			</div>
 			
-			 <button type="button" class="btn btn-success btn-lg btn-block buzhou_padding startnow_btn">很简单？现在就去动手做吧~</button>
+			 <button type="button" class="btn btn-warning btn-lg btn-block buzhou_padding startnow_btn">很简单？现在就去动手做吧~</button>
 			<div class="post_box clearfix">
 				<textarea rows="5" cols="60" class="msg_box" placeholder="在这输入评论吧~"></textarea>
 			<button type="button" class="btn btn-default btn-success comment_btn">发表评论</button>
@@ -313,15 +422,10 @@
 			
 		</div>
 			
-<!-- ——————————————————主体制作部分—————————————————— -->	
+<!-- ——————————————————主体制作部分 结束—————————————————— -->	
 
-			
-<!-- ——————————————————右部未知部分—————————————————— -->		
-	</div>
-		<div class="col-md-2 column">
-		</div>
-	</div>
-<!-- ——————————————————右部未知部分—————————————————— -->
+			<div class="col-md-2 column">
+			</div>
 
 	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
 	<script type="text/javascript" src="js/jquery.select.js"></script>
