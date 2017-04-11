@@ -24,11 +24,11 @@
 			<div class="col-md-3 column">
 				<div class="mylist">
 					<ul>
-						<li> <a href="#">按种类分</a></li>
-						<li> <a href="#">按食材分</a></li>
-						<li> <a href="#">按难度分</a></li>
+						<li><a href="#">按种类分</a></li>
+						<li><a href="#">按食材分</a></li>
+						<li><a href="#">按难度分</a></li>
 					</ul>
-				</div>			
+				</div>
 			</div>
 			<div class="col-md-9 column">
 				<div class="row clearfix">
@@ -38,14 +38,14 @@
 				</div>
 				<div class="row clearfix listImg">
 					<div class="col-md-4 column">
-						<img src="images/recommend/1.jpg" alt="草莓蛋糕" /> 
-						<br> 草莓蛋糕 
+						<img src="images/recommend/1.jpg" alt="草莓蛋糕" /> <br> 草莓蛋糕 
 					</div>
 					<div class="col-md-4 column">
 						<img src="images/recommend/2.jpg" alt="核桃酥"> <br> 核桃酥 
 					</div>
 					<div class="col-md-4 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 				</div>
@@ -64,6 +64,7 @@
 					</div>
 					<div class="col-md-4 column">
 						<img src="images/recommend/6.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 				</div>
@@ -81,6 +82,7 @@
 					</div>
 					<div class="col-md-4 column">
 						<img src="images/recommend/9.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 				</div>
@@ -94,11 +96,12 @@
 						<img src="images/recommend/10.jpg" alt="草莓蛋糕" /> <br> 草莓蛋糕 
 					</div>
 					<div class="col-md-4 column">
-						<img src="images/recommend/11.jpg" alt="核桃酥"> <br> 核桃酥 
+						<img src="images/recommend/11.jpg" alt="核桃酥"> <br> 核桃酥
+						
 					</div>
 					<div class="col-md-4 column">
-						<img src="images/recommend/12.jpg" alt="奶油草莓"> <br> 奶油草莓
-						
+						<img src="images/recommend/12.jpg" alt="奶油草莓"> <br>
+								奶油草莓 
 					</div>
 				</div>
 			</div>
@@ -113,18 +116,22 @@
 				<div class="row clearfix portImg">
 					<div class="col-md-3 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 					<div class="col-md-3 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 					<div class="col-md-3 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 					<div class="col-md-3 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 				</div>
@@ -136,18 +143,22 @@
 				<div class="row clearfix portImg">
 					<div class="col-md-3 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 					<div class="col-md-3 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 					<div class="col-md-3 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 					<div class="col-md-3 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 				</div>
@@ -159,18 +170,22 @@
 				<div class="row clearfix portImg">
 					<div class="col-md-3 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 					<div class="col-md-3 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 					<div class="col-md-3 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 					<div class="col-md-3 column">
 						<img src="images/recommend/3.jpg" alt="奶油草莓"> <br> 奶油草莓
+
 						
 					</div>
 				</div>

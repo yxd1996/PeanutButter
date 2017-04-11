@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+
+.no_border td{
+	border-top: 0px ;
+}
+
+.bottom_margin{
+	margin-top:10px;
+}
+
+.bottom_bg{
+	margin-top:20px;
+	background:#af5f3c;
+}
+
+.reference{
+	width:90%;
+	font-size:12px;
+}
+
+.reference a{
+	color:#fb966e;
+}

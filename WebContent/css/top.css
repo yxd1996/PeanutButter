@@ -1,61 +1,69 @@
-@CHARSET "UTF-8";
-
-body{
-	font-family:"微软雅黑";	
-}
-.main_logo{
-	margin-top:-15px;
-	width:100%;
-	height:66px;
+@charset "utf-8";
+body {
+	font-family:"微软雅黑";
 }
 
-.top_right{
-	float:right;
+.main_logo {
+	margin-top: -20px;
+	width: 100%;
+	height: 66px;
+}
+
+.top_right {
+	float: right;
 	color: #ffffff;
 }
-.top_right ul{
-	padding:0;
-	list-style:none;
+
+.top_right ul {
+	padding: 0;
+	list-style: none;
 }
-.top_right ul li{
+
+.top_right ul li {
 	display: inline-block;
 }
-.top_right ul li:last-child{
+
+.top_right ul li:last-child {
 	margin-right: 0;
 }
-.top_right ul li a{
-	text-align:center;
-	text-transform:uppercase;
-	font-family:"微软雅黑";
-	font-size:15px;
-	display:block;
-	color:#ffffff;
+
+.top_right ul li a {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "微软雅黑";
+	font-size: 15px;
+	display: block;
+	color: #ffffff;
 	-webkit-transition: all 0.1s ease-in-out;
 	-moz-transition: all 0.1s ease-in-out;
 	-o-transition: all 0.1s ease-in-out;
 	transition: all 0.1s ease-in-out;
 }
-.top_right ul li a:hover{
-	color:#c30e1b;
+
+.top_right ul li a:hover {
+	color: #6a4028;
 	text-decoration: none;
 }
 
-.header{
-	background:#fad157;
-	padding:0 0;
-	height:30px;
+.header_bg {
+	background: #9a5034;
+	padding: 0 0;
+	height: 30px;
 }
 
-.input_composition{
-	font-family:"微软雅黑";
-	font-size:14px;
+.input_composition {
+	font-family: "微软雅黑";
+	font-size: 14px;
 }
 
 .search {
-	border: 2px solid #fad157;
-	height: 39px;
-	margin: 10px auto 0 auto;
-	width: 304px;
+	float:right;
+	border: 2px solid #9a5034;
+	height: 30px;
+	margin-top:10px;
+	margin-right:-15px;
+	width: 220px;
+	border-radius:4px;
 }
 
 .search select {
@@ -63,40 +71,39 @@ body{
 }
 
 .search .select_box {
-	font-size: 12px;
+	font-size: 10px;
 	color: #999999;
-	width: 80px;
-	line-height: 35px;
+	width: 50px;
+	line-height: 30px;
 	float: left;
 	position: relative;
 }
 
 .search .select_showbox {
-	font-family:"微软雅黑";
-	height: 35px;
-	background: url(../images/search_ico.png) no-repeat 60px center;
-	text-indent: 1.5em;
+	font-family: "微软雅黑";
+	height: 30px;
+	background: url(../images/search_ico.png) no-repeat 35px center;
+	text-indent: 0.5em;
 }
 
 .search .select_showbox.active {
-	background: url(../images/search_ico_hover.png) no-repeat 60px center;
+	background: url(../images/search_ico_hover.png) no-repeat 35px center;
 }
 
 .search .select_option {
-	font-family:"微软雅黑";
-	border: 2px solid #fad157;
+	font-family: "微软雅黑";
+	border: 2px solid #9a5034;
 	border-top: none;
 	display: none;
-	left: -2px;
-	top: 35px;
+	top: 30px;
 	position: absolute;
 	z-index: 99;
 	background: #fff;
 }
 
 .search .select_option li {
-	text-indent: 1.5em;
-	width: 70px;
+	text-indent: 0.4em;
+	width: 35px;
 	cursor: pointer;
 }
 
@@ -113,40 +120,22 @@ body{
 .search input.inp_srh, .search input.btn_srh {
 	border: none;
 	background: none;
-	height: 35px;
-	line-height: 35px;
+	height: 30px;
+	line-height: 30px;
 	float: left
 }
 
 .search input.inp_srh {
 	outline: none;
-	width: 170px;
+	width: 130px;
+	font-size:11px;
 }
 
 .search input.btn_srh {
-	background: #fad157;
+	background: #9a5034;
 	color: #FFF;
 	font-family: "微软雅黑";
-	font-size: 15px;
-	width: 50px;
+	font-size: 12px;
+	width: 36px;
+	height:28px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
