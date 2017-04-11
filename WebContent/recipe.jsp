@@ -41,7 +41,7 @@
 					<span class="label label-default tip">#点心</span>
 				</div>
 				<div class="col-md-2 column">
-					 <button type="button" class="btn btn-default btn-warning collect_btn">收藏</button>
+					 <button type="button" class="btn btn-default btn-warning collect_btn">♡ 收藏</button>
 				</div>
 			</div>
 			<img alt="" src="images/201704090001/201704090001_0.jpeg" class="main_pic"/>
@@ -426,10 +426,6 @@
 
 			<div class="col-md-2 column">
 			</div>
-
-	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
-	<script type="text/javascript" src="js/jquery.select.js"></script>
-
 </div>
 </body>
 </html>
