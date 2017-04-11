@@ -12,9 +12,10 @@
 <link href="css/recipe.css" rel='stylesheet' type='text/css' />
 </head>
 <body>
+<%@include file="top.jsp" %>
 <div class="container">
 
-	<%@include file="top.jsp" %>
+	
 <!-- ——————————————————个人信息部分 开始——————————————————-->
 		<div class="row clearfix">
 		<div class="col-md-2 column">
