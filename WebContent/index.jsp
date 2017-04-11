@@ -201,10 +201,7 @@
 				<div class="row clearfix listImg">
 					<div class="col-md-3 column">
 						<img src="images/recommend/4.jpg" alt="桂花牛奶冻" /> <br> 桂花牛奶冻
-
-
-
-						
+				
 					</div>
 					<div class="col-md-3 column">
 						<img src="images/recommend/5.jpg" alt="土豆饼"> <br> 土豆饼 
@@ -213,6 +210,7 @@
 						<img src="images/recommend/6.jpg" alt="圣诞小蛋糕"> <br>
 								圣诞小蛋糕 
 					</div>
+
 					<div class="col-md-3 column">
 						<img src="images/recommend/6.jpg" alt="圣诞小蛋糕"> <br>
 								圣诞小蛋糕 
@@ -226,19 +224,13 @@
 				<div class="row clearfix listImg">
 					<div class="col-md-3 column">
 						<img src="images/recommend/7.jpg" alt="柠檬蓝莓酸奶面包" /> <br>柠檬蓝莓酸奶面包
-
-
-
-						
+					
 					</div>
 					<div class="col-md-3 column">
-						<img src="images/recommend/8.jpg" alt="脆皮香蕉"> <br> 脆皮香蕉
-
-
-
-						
+						<img src="images/recommend/8.jpg" alt="脆皮香蕉"> <br> 脆皮香蕉			
 					</div>
 					<div class="col-md-3 column">
+
 						<img src="images/recommend/9.jpg" alt="膏蟹粥"> <br> 膏蟹粥 
 					</div>
 					<div class="col-md-3 column">
@@ -252,30 +244,17 @@
 				</div>
 				<div class="row clearfix listImg">
 					<div class="col-md-3 column">
-						<img src="images/recommend/10.jpg" alt="面包杂蔬BBQ " /> <br>面包杂蔬BBQ
-
-
-
-						
+						<img src="images/recommend/10.jpg" alt="面包杂蔬BBQ " /> <br>面包杂蔬BBQ						
 					</div>
 					<div class="col-md-3 column">
 						<img src="images/recommend/11.jpg" alt="芙蓉鸡丝粥"> <br>
 								芙蓉鸡丝粥 
 					</div>
 					<div class="col-md-3 column">
-						<img src="images/recommend/12.jpg" alt="白菜烧麦"> <br>白菜烧麦
-
-
-
-						
+						<img src="images/recommend/12.jpg" alt="白菜烧麦"> <br>白菜烧麦						
 					</div>
 					<div class="col-md-3 column">
-						<img src="images/recommend/12.jpg" alt="白菜烧麦"> <br>白菜烧麦
-
-
-
-
-						
+						<img src="images/recommend/12.jpg" alt="白菜烧麦"> <br>白菜烧麦					
 					</div>
 				</div>
 			</div>
