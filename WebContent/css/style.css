@@ -95,7 +95,7 @@ body a {
 	color: #FFC083;
 }
 
-.listImg img {
+.listImg{
 	padding: 0.25rem;
 	background-color: #fff;
 	border: 1px solid #ddd;
@@ -108,17 +108,58 @@ body a {
 	height: 168px;
 }
 
-.portImg img {
-	padding: 0.25rem;
-	background-color: #fff;
-	border: 1px solid #ddd;
-	border-radius: 0.25rem;
-	-webkit-transition: all 0.2s ease-in-out;
-	-o-transition: all 0.2s ease-in-out;
-	transition: all 0.2s ease-in-out;
-	width: 300px;
+.listTitle {
+    width: 300px;
 	max-width: 100%;
-	height: 168px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.listInfo,.listOwn,.listSave,.listView {
+	display: inline-block;
+    vertical-align: bottom;
+    color: #99a2aa;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    line-height: 16px;
+    font-size:12px;
+}
+.listInfo,.list-icon,.listOwn, .listSave, .listView {
+	vertical-align: top;
+    margin-right: 5px;
+}
+.listInfo {
+	padding-top:8px;
+	width:300px;
+	max-width:100%;
+}
+
+.listOwn {
+	width:90px;
+}
+.listSave,.listView{
+	width: 80px;
+    margin-left: 10px;
+}
+
+.list-icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 12px;
+    height: 12px;
+    background: url(../images/icons.png) no-repeat;
+}
+.list-icon.list-icon-own {
+    background-position: -282px -154px;
+}
+
+.list-icon.list-icon-save {
+    background-position: -282px -346px;
+}
+.list-icon.list-icon-view {
+    background: url(../images/view.png);
 }
 
 .mylist{
