@@ -13,9 +13,9 @@
 			<div class="col-md-12 column">
 				<div class="top_right">
 					<ul>
-						<li><a href="register.html">注册</a></li>
+						<li><a href="register.jsp">注册</a></li>
 						<label>|</label>
-						<li><a href="login.html">登录</a></li>
+						<li><a href="login.jsp">登录</a></li>
 					</ul>
 				</div>
 			</div>

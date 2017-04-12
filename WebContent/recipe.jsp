@@ -3,7 +3,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
 <title>花生酱|制作方法</title>
 <link href="css/base.css" rel='stylesheet' type='text/css' />
 <link href="css/top.css" rel="stylesheet" type="text/css" />
@@ -42,9 +43,8 @@
 				</div>
 				<img alt="" src="images/201704120001/201704120000.png"
 					class="main_pic" />
-				<p class="words_ahead buzhou_padding">
-					【导语】草莓营养价值高，含丰富维生素C ，有帮助消化的功效，与此同时，草莓还可以巩固齿龈，清新口气，润泽喉部。
-				</p>
+				<p class="words_ahead buzhou_padding">【导语】草莓营养价值高，含丰富维生素C
+					，有帮助消化的功效，与此同时，草莓还可以巩固齿龈，清新口气，润泽喉部。</p>
 
 				<div class="row clearfix buzhou_padding">
 					<div class="col-md-1 column cailiao">材料</div>
@@ -142,7 +142,7 @@
 							class="buzhou_pic" />
 					</div>
 				</div>
-				
+
 				<div class="post_box clearfix">
 					<textarea rows="5" cols="60" class="msg_box" placeholder="在这输入评论吧~"></textarea>
 					<button type="button"
