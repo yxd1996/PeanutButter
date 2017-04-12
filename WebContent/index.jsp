@@ -11,14 +11,16 @@
 </head>
 <body>
 	<%@include file="top.jsp"%>
-	<div class="container" style="margin-top:20px;">	
-		<div class="row clearfix" >
+	<div class="container" style="margin-top: 20px;">
+		<div class="row clearfix">
 			<div class="col-md-3 column">
 				<div class="mylist">
 					<ul>
-						<li><a style="text-decoration: none;margin-left:1em; margin-right:1em;" href="#">按种类</a>							
+						<li><a
+							style="text-decoration: none; margin-left: 1em; margin-right: 1em;"
+							href="#">按种类</a>
 							<div class="secondlist">
-								<label><a href="#">中式</a></label>
+								<label><a style="margin-top: 0.5em;"#">中式</a></label>
 								<table class="secondtable">
 									<tbody>
 										<tr>
@@ -32,7 +34,6 @@
 											<td><a href="#">粥饭类</a></td>
 										</tr>
 										<tr>
-											<td><a href="#">包饺类</a></td>
 											<td><a href="#">羹汤类</a></td>
 											<td><a href="#">其他</a></td>
 										</tr>
@@ -54,14 +55,46 @@
 										<tr>
 											<td><a href="#">泡芙类</a></td>
 											<td><a href="#">饼干类</a></td>
+											<td><a href="#">咖啡</a></td>
+										</tr>
+										<tr>
+											<td><a href="#">奶</a></td>
+											<td><a href="#">茶</a></td>
+											<td><a href="#">其他</a></td>
+										</tr>
+									</tbody>
+								</table>
+								<label><a href="#">其他</a></label>
+								<table class="secondtable">
+									<tbody>
+										<tr>
+											<td><a href="#">日式</a></td>
+											<td><a href="#">泰式</a></td>
+											<td><a href="#">印式</a></td>
+										</tr>
+										<tr>
+											<td><a href="#">面包类</a></td>
+											<td><a href="#">酥饼类</a></td>
+											<td><a href="#">派类</a></td>
+										</tr>
+										<tr>
+											<td><a href="#">泡芙类</a></td>
+											<td><a href="#">饼干类</a></td>
+											<td><a href="#">咖啡</a></td>
+										</tr>
+										<tr>
+											<td><a href="#">奶</a></td>
+											<td><a href="#">茶</a></td>
 											<td><a href="#">其他</a></td>
 										</tr>
 									</tbody>
 								</table>
 							</div></li>
-						<li><a style="text-decoration: none;margin-left:1em; margin-right:1em;" href="#">按特别元素</a>
+						<li><a
+							style="text-decoration: none; margin-left: 1em; margin-right: 1em;"
+							href="#">按特别元素</a>
 							<div class="secondlist">
-								<label><a href="#">水果</a></label>
+								<label><a style="margin-top: 0.5em;"#">水果</a></label>
 								<table class="secondtable">
 									<tbody>
 										<tr>
@@ -104,9 +137,11 @@
 								</table>
 
 							</div></li>
-						<li><a style="text-decoration: none;margin-left:1em; margin-right:1em;" href="#">按难度</a>
+						<li><a
+							style="text-decoration: none; margin-left: 1em; margin-right: 1em;"
+							href="#">按难度</a>
 							<div class="secondlist">
-								<label><a href="#">简单</a></label>
+								<label><a style="margin-top: 0.5em;"#">简单</a></label>
 								<table class="secondtable">
 									<tbody>
 										<tr>
@@ -142,17 +177,15 @@
 				</div>
 			</div>
 			<div class="col-md-9 column">
-				<div class="carousel slide" >
+				<div class="carousel slide">
 					<ol class="carousel-indicators">
-						<li data-slide-to="0" ></li>
-						<li data-slide-to="1"
-							class="active"></li>
+						<li data-slide-to="0"></li>
+						<li data-slide-to="1" class="active"></li>
 						<li data-slide-to="2"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="item active">
-							<img alt=""
-								src="images/recommend/001.jpg" />
+							<img alt="" src="images/recommend/001.jpg" />
 							<div class="carousel-caption">
 								<h4>你喜欢草莓吗~</h4>
 								<p>又到了草莓上市的季节,每当走到草莓摊前,看到那红彤彤的草莓,闻到那一股甜丝丝的香味,我就会像只馋嘴的小猫,忍不住垂涎欲滴。</p>
@@ -176,21 +209,37 @@
 						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
 					</div>
 				</div>
-				<div class="row clearfix listImg">
+				<div class="row clearfix">
 					<div class="col-md-3 column">
-						<img src="images/recommend/4.jpg" alt="桂花牛奶冻" /> <br> 桂花牛奶冻
-				
+			 	<a href="#">
+				<img class="listImg" src="images/recommend/4.jpg" alt="桂花牛奶冻" /> 
+				<div class="listTitle">好看又好吃的桂花牛奶冻哟一起来做吧~~~~</div>				
+				</a>
+				<div class="listInfo">
+					<div class="listOwn">
+						<i class="list-icon list-icon-own "></i>
+						cy
+					</div>
+					<div class="listSave">
+						<i class="list-icon list-icon-save "></i>
+						523
+					</div>
+					<div class="listView">
+						<i class="list-icon list-icon-view "></i>
+						1280
+					</div>
+				</div>
+				</div>
+					<div class="col-md-3 column">
+						<img class="listImg" src="images/recommend/5.jpg" alt="土豆饼"> <br> 土豆饼 
 					</div>
 					<div class="col-md-3 column">
-						<img src="images/recommend/5.jpg" alt="土豆饼"> <br> 土豆饼 
-					</div>
-					<div class="col-md-3 column">
-						<img src="images/recommend/6.jpg" alt="圣诞小蛋糕"> <br>
+						<img class="listImg" src="images/recommend/6.jpg" alt="圣诞小蛋糕"> <br>
 								圣诞小蛋糕 
 					</div>
 
 					<div class="col-md-3 column">
-						<img src="images/recommend/6.jpg" alt="圣诞小蛋糕"> <br>
+						<img class="listImg" src="images/recommend/6.jpg" alt="圣诞小蛋糕"> <br>
 								圣诞小蛋糕 
 					</div>
 				</div>
@@ -200,20 +249,22 @@
 						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
 					</div>
 				</div>
-				<div class="row clearfix listImg">
+				<div class="row clearfix">
 					<div class="col-md-3 column">
-						<img src="images/recommend/7.jpg" alt="柠檬蓝莓酸奶面包" /> <br>柠檬蓝莓酸奶面包
-					
+						<img class="listImg" src="images/recommend/7.jpg" alt="柠檬蓝莓酸奶面包" /> <br>柠檬蓝莓酸奶面包
+
+						
 					</div>
 					<div class="col-md-3 column">
-						<img src="images/recommend/8.jpg" alt="脆皮香蕉"> <br> 脆皮香蕉			
+						<img class="listImg" src="images/recommend/8.jpg" alt="脆皮香蕉"> <br> 脆皮香蕉
+						
 					</div>
 					<div class="col-md-3 column">
 
-						<img src="images/recommend/9.jpg" alt="膏蟹粥"> <br> 膏蟹粥 
+						<img class="listImg" src="images/recommend/9.jpg" alt="膏蟹粥"> <br> 膏蟹粥 
 					</div>
 					<div class="col-md-3 column">
-						<img src="images/recommend/9.jpg" alt="膏蟹粥"> <br> 膏蟹粥 
+						<img class="listImg" src="images/recommend/9.jpg" alt="膏蟹粥"> <br> 膏蟹粥 
 					</div>
 				</div>
 				<div class="row clearfix">
@@ -222,19 +273,22 @@
 						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
 					</div>
 				</div>
-				<div class="row clearfix listImg">
+				<div class="row clearfix">
 					<div class="col-md-3 column">
-						<img src="images/recommend/10.jpg" alt="面包杂蔬BBQ " /> <br>面包杂蔬BBQ						
+						<img class="listImg" src="images/recommend/10.jpg" alt="面包杂蔬BBQ " /> <br>面包杂蔬BBQ
+						
 					</div>
 					<div class="col-md-3 column">
-						<img src="images/recommend/11.jpg" alt="芙蓉鸡丝粥"> <br>
+						<img class="listImg" src="images/recommend/11.jpg" alt="芙蓉鸡丝粥"> <br>
 								芙蓉鸡丝粥 
 					</div>
 					<div class="col-md-3 column">
-						<img src="images/recommend/12.jpg" alt="白菜烧麦"> <br>白菜烧麦						
+						<img class="listImg" src="images/recommend/12.jpg" alt="白菜烧麦"> <br>白菜烧麦
+						
 					</div>
 					<div class="col-md-3 column">
-						<img src="images/recommend/12.jpg" alt="白菜烧麦"> <br>白菜烧麦					
+						<img class="listImg" src="images/recommend/12.jpg" alt="白菜烧麦"> <br>白菜烧麦
+						
 					</div>
 				</div>
 			</div>
@@ -248,20 +302,20 @@
 						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
 					</div>
 				</div>
-				<div class="row clearfix portImg">
+				<div class="row clearfix">
 					<div class="col-md-3 column">
-						<img src="images/recommend/14.jpg" alt="和果子"> <br> 和果子</br>
-						
+						<img class="listImg" src="images/recommend/14.jpg" alt="和果子"> <br> 和果子</br>
 					</div>
 					<div class="col-md-3 column">
-						<img src="images/recommend/15.jpg" alt="冰咖啡"> <br> 冰咖啡</br>
-						
+						<img class="listImg" src="images/recommend/15.jpg" alt="冰咖啡"> <br> 冰咖啡</br>
 					</div>
 					<div class="col-md-3 column">
-						<img src="images/recommend/16.jpg" alt="珍珠奶茶霜淇淋"> <br> 珍珠奶茶霜淇淋 </br>
+						<img class="listImg" src="images/recommend/16.jpg" alt="珍珠奶茶霜淇淋"> <br>
+								珍珠奶茶霜淇淋 </br>
 					</div>
 					<div class="col-md-3 column">
-						<img src="images/recommend/17.jpg" alt="盆栽鸳鸯奶茶"> <br> 盆栽鸳鸯奶茶 </br>
+						<img class="listImg" src="images/recommend/17.jpg" alt="盆栽鸳鸯奶茶"> <br>
+								盆栽鸳鸯奶茶 </br>
 					</div>
 				</div>
 			</div>
