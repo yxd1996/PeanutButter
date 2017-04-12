@@ -145,8 +145,6 @@ body a {
 
 .mylist ul li a{
 	color:#FFFFFF;
-	margin-left:1em;
-	margin-right:1em;
 	display:block;
 }
 .mylist ul li a:after{
@@ -159,12 +157,13 @@ body a {
 }
 .secondlist{
 	position:absolute;
-	left:102%;
+	left:100%;
 	top:0;
-	width:15em;
+	width:16em;
 	z-index:510;
 	display:none;
 	background:#FF9900;
+	border-left:3px solid #fff;
 	color:#fff;	
 }
 

@@ -6,8 +6,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>花生酱</title>
 <link href="css/base.css" rel='stylesheet' type='text/css' />
-<link href="css/style.css" rel='stylesheet' type='text/css' />
 <link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
+<link href="css/style.css" rel='stylesheet' type='text/css' />
 </head>
 <body>
 	<%@include file="top.jsp"%>
@@ -16,7 +16,7 @@
 			<div class="col-md-3 column">
 				<div class="mylist">
 					<ul>
-						<li><a style="text-decoration: none;" href="#">按种类</a>							
+						<li><a style="text-decoration: none;margin-left:1em; margin-right:1em;" href="#">按种类</a>							
 							<div class="secondlist">
 								<label><a href="#">中式</a></label>
 								<table class="secondtable">
@@ -59,7 +59,7 @@
 									</tbody>
 								</table>
 							</div></li>
-						<li><a style="text-decoration: none;" href="#">按特别元素</a>
+						<li><a style="text-decoration: none;margin-left:1em; margin-right:1em;" href="#">按特别元素</a>
 							<div class="secondlist">
 								<label><a href="#">水果</a></label>
 								<table class="secondtable">
@@ -104,7 +104,7 @@
 								</table>
 
 							</div></li>
-						<li><a style="text-decoration: none;" href="#">按难度</a>
+						<li><a style="text-decoration: none;margin-left:1em; margin-right:1em;" href="#">按难度</a>
 							<div class="secondlist">
 								<label><a href="#">简单</a></label>
 								<table class="secondtable">
@@ -142,42 +142,20 @@
 				</div>
 			</div>
 			<div class="col-md-9 column">
-				<div class="carousel slide" id="carousel-753926">
+				<div class="carousel slide" >
 					<ol class="carousel-indicators">
-						<li data-slide-to="0" data-target="#carousel-753926"></li>
-						<li data-slide-to="1" data-target="#carousel-753926"
+						<li data-slide-to="0" ></li>
+						<li data-slide-to="1"
 							class="active"></li>
-						<li data-slide-to="2" data-target="#carousel-753926"></li>
+						<li data-slide-to="2"></li>
 					</ol>
 					<div class="carousel-inner">
-						<div class="item">
-							<img alt=""
-								src="http://ibootstrap-file.b0.upaiyun.com/lorempixel.com/1600/500/sports/1/default.jpg" />
-							<div class="carousel-caption">
-								<h4>First Thumbnail label</h4>
-								<p>Cras justo odio, dapibus ac facilisis in, egestas eget
-									quam. Donec id elit non mi porta gravida at eget metus. Nullam
-									id dolor id nibh ultricies vehicula ut id elit.</p>
-							</div>
-						</div>
 						<div class="item active">
 							<img alt=""
-								src="http://ibootstrap-file.b0.upaiyun.com/lorempixel.com/1600/500/sports/2/default.jpg" />
+								src="images/recommend/001.jpg" />
 							<div class="carousel-caption">
-								<h4>Second Thumbnail label</h4>
-								<p>Cras justo odio, dapibus ac facilisis in, egestas eget
-									quam. Donec id elit non mi porta gravida at eget metus. Nullam
-									id dolor id nibh ultricies vehicula ut id elit.</p>
-							</div>
-						</div>
-						<div class="item">
-							<img alt=""
-								src="http://ibootstrap-file.b0.upaiyun.com/lorempixel.com/1600/500/sports/3/default.jpg" />
-							<div class="carousel-caption">
-								<h4>Third Thumbnail label</h4>
-								<p>Cras justo odio, dapibus ac facilisis in, egestas eget
-									quam. Donec id elit non mi porta gravida at eget metus. Nullam
-									id dolor id nibh ultricies vehicula ut id elit.</p>
+								<h4>你喜欢草莓吗~</h4>
+								<p>又到了草莓上市的季节,每当走到草莓摊前,看到那红彤彤的草莓,闻到那一股甜丝丝的香味,我就会像只馋嘴的小猫,忍不住垂涎欲滴。</p>
 							</div>
 						</div>
 					</div>
@@ -218,7 +196,8 @@
 				</div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
-						<h5>热门</h5>
+						<span style="font-size: 1.25rem;">热门</span>
+						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
 					</div>
 				</div>
 				<div class="row clearfix listImg">
@@ -239,7 +218,8 @@
 				</div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
-						<h5>新发现</h5>
+						<span style="font-size: 1.25rem;">新发现</span>
+						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
 					</div>
 				</div>
 				<div class="row clearfix listImg">
@@ -259,11 +239,13 @@
 				</div>
 			</div>
 		</div>
+		<dr></dr>
 		<div class="row clearfix">
 			<div class="col-md-12 column">
 				<div class="row clearfix">
 					<div class="col-md-12 column">
-						<h5>分区一</h5>
+						<span style="font-size: 1.25rem;">分区一</span>
+						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
 					</div>
 				</div>
 				<div class="row clearfix portImg">
