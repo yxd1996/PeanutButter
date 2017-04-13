@@ -63,7 +63,7 @@ body a {
 .breadcrumb>li+li:before {
 	padding: 0 5px;
 	color: #ccc;
-	content: "/\00a0"
+	content: "→"
 }
 
 .breadcrumb>.active {
@@ -94,6 +94,16 @@ body a {
 .logo h1 a {
 	color: #FFC083;
 }
+
+.pull-right {
+	margin-top:1em;
+    float: right!important;
+}
+
+.divvv{
+	height:1em;
+}
+
 
 .listImg{
 	padding: 0.25rem;
@@ -234,5 +244,6 @@ body a {
 }
 
 .little_icon{
-	
+	width:50px;
+	height:auto;
 }
