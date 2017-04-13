@@ -170,7 +170,7 @@ body a {
 	position:relative;
 }
 .mylist ul li{
-	background:#99CC33;	
+	background:#9a5034;	
 	text-align:left;
 	position:relative;
 	margin-bottom:0.5em;
@@ -194,7 +194,8 @@ body a {
 }
 
 .mylist ul li:hover{
-	background:#FF9900;	
+	background:#db8e71;
+	color:#9a5034;	
 }
 .secondlist{
 	position:absolute;
@@ -203,7 +204,7 @@ body a {
 	width:16em;
 	z-index:510;
 	display:none;
-	background:#FF9900;
+	background:#db8e71;
 	border-left:3px solid #fff;
 	color:#fff;	
 }
@@ -230,4 +231,8 @@ body a {
 }
 .secondtable a{
 	font-size:13px;	
+}
+
+.little_icon{
+	
 }

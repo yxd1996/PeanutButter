@@ -34,6 +34,7 @@
 						<label class="rememberme"><input type="checkbox" />&nbsp;记住密码</label>
 						<a href="#" class="forgetpassword">忘记密码？</a>
 						<button type="button" class="btn btn-default btn-success login_btn">登&nbsp;&nbsp;录</button>
+						<li><a href="register.jsp" class="loginnow">还没账号？点这注册~</a></li>
 					</form>
 				</div>
 				<div class="col-md-3 column">

@@ -205,7 +205,8 @@
 			<div class="col-md-12 column">
 				<div class="row clearfix">
 					<div class="col-md-12 column">
-						<span style="font-size: 1.25rem;">动态</span>
+						<img src="images/dynamic_icon.png" alt="" class="little_icon" />
+						<span style="font-size: 1.25rem;margin-left:2px;">动态</span>
 						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
 					</div>
 				</div>
@@ -245,6 +246,7 @@
 				</div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
+						<img src="images/popular_icon.png" alt="" />
 						<span style="font-size: 1.25rem;">热门</span>
 						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
 					</div>
@@ -269,6 +271,7 @@
 				</div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
+					<img src="images/newfind_icon.png" alt="" />
 						<span style="font-size: 1.25rem;">新发现</span>
 						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
 					</div>
@@ -298,6 +301,7 @@
 			<div class="col-md-12 column">
 				<div class="row clearfix">
 					<div class="col-md-12 column">
+						<img src="images/concrete_icon.png" alt="" />
 						<span style="font-size: 1.25rem;">分区一</span>
 						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
 					</div>

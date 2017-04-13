@@ -33,8 +33,18 @@ body{
 }
 .login_btn{
 	font-size:16px;
-	margin-top:15px;
+	margin-top:10px;
 	margin-left:15%;
 	width:70%;
 	height:35px;
+}
+
+.loginnow{
+	font-size:14px;
+	width:30%;
+	margin-left:35%;
+	margin-right:35%;
+	text-align:center;
+	margin-top:10px;
+	color:#6a8372;
 }

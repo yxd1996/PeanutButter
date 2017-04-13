@@ -4,15 +4,14 @@
 	pageEncoding="UTF-8"%>
 <head>
 <title>花生酱|注册</title>
-</head>
-<body>
-	<link href="css/base.css" rel='stylesheet' type='text/css' />
+<link href="css/base.css" rel='stylesheet' type='text/css' />
 <link href="css/top.css" rel="stylesheet" type="text/css" />
 <link href="css/style.css" rel='stylesheet' type='text/css' />
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
 <link href="css/login.css" rel='stylesheet' type='text/css' />
 </head>
+
 <body>
 	<div class="container">
 	<div class="row clearfix">
@@ -25,7 +24,7 @@
 					<form class="form-horizontal info_padding" role="form">
 						<div class="form-group">
 							<div class="col-sm-10 username_input" >
-								<input type="text" class="form-control " id="inputEmail3" placeholder="请输入您的账号" />
+								<input type="text" class="form-control " id="inputEmail3" placeholder="请输入您的用户名" />
 							</div>
 						</div>
 						<div class="form-group">
@@ -39,6 +38,7 @@
 							</div>
 						</div>
 						<button type="button" class="btn btn-default btn-success login_btn">注&nbsp;&nbsp;册</button>
+						<li><a href="login.jsp" class="loginnow">已有账号？点这登录~</a></li>
 					</form>
 				</div>
 				<div class="col-md-3 column">
