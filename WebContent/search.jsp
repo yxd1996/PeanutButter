@@ -174,39 +174,45 @@
 				<!-- begin -->
 				<div class="row clearfix searchItem">
 					<div class="col-md-4 column">
-						<a href="#"> <img class="listImg" src="images/recommend/4.jpg"
-							alt="桂花牛奶冻" />
+						<a href="recipe.jsp"> <img class="listImg" src="images/search/01.png"
+							alt="草莓奶昔" />
 						</a>
 					</div>
 					<div class="col-md-6 column">
-						<a href="#">
-							<div class="searchTitle">好看又好吃的桂花牛奶冻哟~~</div>
+						<a href="recipe.jsp">
+							<div class="searchTitle">【简单】十分钟教你做草莓奶昔~</div>
 						</a>
 						<div class="searchInfo">
+						<span class="tip">#清凉</span> <span
+							class="tip">#草莓</span> <span
+							class="tip">#奶昔</span>
+							<span
+							class="tip">#搅拌机</span>
+					</div>
+						<div class="searchInfo">
 							<div class="searchOwn">
-								<i class="search-icon search-icon-own "></i> cyyyyyyy
-							</div>
-						</div>
-						<div class="searchInfo">
-							<div class="searchSave">
-								<i class="search-icon search-icon-save "></i> 523
-							</div>
-						</div>
-						<div class="searchInfo">
-							<div class="searchReply">
-								<i class="search-icon search-icon-reply "></i> 13
-							</div>
-						</div>
-						<div class="searchInfo">
-							<div class="searchView">
-								<i class="search-icon search-icon-view "></i> 1280
+								<i class="search-icon search-icon-own "></i> cy
 							</div>
 						</div>
 						<div class="searchInfo">
 							<div class="searchDate">
-								<i class="search-icon search-icon-date "></i> 2017-04-07 21:02
+								<i class="search-icon search-icon-date "></i> 2017-04-09 15:48
 							</div>
 						</div>
+						<div class="searchInfo">
+							<div class="searchSave">
+								<i class="search-icon search-icon-save "></i> 365
+							</div>
+							<div class="searchReply">
+								<i class="search-icon search-icon-reply "></i> 13
+							</div>
+						
+							<div class="searchView">
+								<i class="search-icon search-icon-view "></i> 580
+							</div>
+						</div>
+						
+						
 					</div>
 					<div class="col-md-2 column"></div>
 				</div>

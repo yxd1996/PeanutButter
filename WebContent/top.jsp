@@ -26,7 +26,7 @@
 			</div>
 			<div class="col-md-10 column">
 				<div class="search radius6">
-					<form name="searchform" method="post" action="/e/search/index.php">
+					<form name="searchform" method="post" action="search.jsp">
 						<input name='ecmsfrom' type='hidden' value='9'> 
 						<input type="hidden" name="show" value="title,newstext"> 
 							<select name="classid" id="choose">

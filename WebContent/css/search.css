@@ -7,7 +7,7 @@
 }
 
 .searchTitle {
-    width: 300px;
+    width: 25em;
 	max-width: 100%;
     overflow: hidden;
     white-space: nowrap;
@@ -28,15 +28,20 @@
 .searchInfo,.search-icon,.searchOwn, .searchSave, .searchView,.searchReply,.searchDate {
 	vertical-align: top;
     margin-right: 5px;
+    margin-left:2px;
 }
 .searchInfo {
-	padding-top:8px;
-	width:450px;
+	padding-top:1em;
+	width:25em;
 	max-width:100%;
 }
 
-.searchOwn,.searchSave,.searchView,.searchReply,.searchDate{
+.searchOwn,.searchDate{
 	width: 450px;
+}
+
+.searchSave,.searchView,.searchReply{
+	width: 5em;
 }
 
 .search-icon {
