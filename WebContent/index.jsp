@@ -191,6 +191,7 @@
 		</div>
 		<div class="row clearfix">
 			<div class="col-md-12 column">
+				<div class="divvv"> </div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/dynamic_icon.png" alt="" class="little_icon" />
@@ -271,7 +272,7 @@
 						</div>
 					</div>
 				</div>
-
+				<div class="divvv"> </div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/popular_icon.png" alt="" class="little_icon" />
@@ -352,7 +353,7 @@
 						</div>
 					</div>
 				</div>
-
+				<div class="divvv"> </div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/newfind_icon.png" alt="" class="little_icon" />
@@ -433,7 +434,7 @@
 						</div>
 					</div>
 				</div>
-
+				<div class="divvv"> </div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -514,7 +515,7 @@
 						</div>
 					</div>
 				</div>
-
+				<div class="divvv"> </div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -596,7 +597,7 @@
 						</div>
 					</div>
 				</div>
-
+				<div class="divvv"> </div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -677,7 +678,7 @@
 						</div>
 					</div>
 				</div>
-
+				<div class="divvv"> </div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -758,7 +759,7 @@
 						</div>
 					</div>
 				</div>
-
+				<div class="divvv"> </div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -840,7 +841,7 @@
 						</div>
 					</div>
 				</div>
-
+				<div class="divvv"> </div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -921,7 +922,7 @@
 						</div>
 					</div>
 				</div>
-
+				<div class="divvv"> </div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -1002,7 +1003,7 @@
 						</div>
 					</div>
 				</div>
-
+				<div class="divvv"> </div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -1083,6 +1084,11 @@
 							</div>
 						</div>
 					</div>
+					<footer>
+					<p class="pull-right">
+						<a href="#">返回顶部</a>
+					</p>
+					</footer>
 				</div>
 			</div>
 		</div>

@@ -95,6 +95,15 @@ body a {
 	color: #FFC083;
 }
 
+.pull-right {
+	margin-top:1em;
+    float: right!important;
+}
+
+.divvv{
+	height:1em;
+}
+
 
 .listImg{
 	padding: 0.25rem;
