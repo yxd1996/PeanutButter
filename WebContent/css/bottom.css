@@ -1,11 +1,11 @@
 @CHARSET "UTF-8";
 
-.no_border td{
+.no_border>tbody>tr>td{
 	border-top: 0px ;
 }
 
 .bottom_margin{
-	margin-top:10px;
+	padding-top:10px;
 }
 
 .bottom_bg{

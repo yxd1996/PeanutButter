@@ -9,6 +9,8 @@
 <link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
 <link href="css/style.css" rel='stylesheet' type='text/css' />
 <link href="css/search.css" rel='stylesheet' type='text/css' />
+<link href="css/top.css" rel='stylesheet' type='text/css' />
+<link href="css/bottom.css" rel='stylesheet' type='text/css' />
 </head>
 <body>
 	<%@include file="top.jsp"%>

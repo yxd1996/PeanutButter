@@ -20,8 +20,8 @@
 		<div class="row clearfix">
 			<div class="col-md-2 column">
 
-				<img alt="" src="images/0.jpg" class="img-circle" /> <label
-					class="name">cy</label>
+				<img alt="" src="images/876.jpeg" class="img-circle" /> <label
+					class="name">udani</label>
 				<p class="signature">这个人很懒，什么都没有留下~</p>
 				<button type="button" class="btn btn-default btn-success focus_btn">关注TA</button>
 			</div>
@@ -31,21 +31,19 @@
 			<div class="col-md-9 column text-top">
 				<div class="row clearfix">
 					<div class="col-md-10 column">
-						<h3>【简单】十分钟教你做草莓奶昔~</h3>
-						<label class="designer_info">上传者：cy&nbsp;&nbsp;&nbsp;&nbsp;上传时间：2017/4/9&nbsp;&nbsp;&nbsp;&nbsp;收藏量：365&nbsp;&nbsp;&nbsp;&nbsp;阅读量：580</label>
-						<span class="label label-default tip">#清凉</span> <span
-							class="label label-default tip">#草莓</span> <span
-							class="label label-default tip">#奶昔</span>
+						<h3>炎炎夏日，小白兔冰淇淋，萌萌哒，美美哒～</h3>
+						<label class="designer_info">上传者：udani&nbsp;&nbsp;&nbsp;&nbsp;上传时间：2017/04/08&nbsp;&nbsp;&nbsp;&nbsp;收藏量：405&nbsp;&nbsp;&nbsp;&nbsp;阅读量：2051</label>
+						<span class="label label-default tip">#巧克力</span> <span
+							class="label label-default tip">#冰淇淋</span> 
 					</div>
 					<div class="col-md-2 column">
 						<button type="button"
 							class="btn btn-default btn-warning collect_btn">收藏</button>
 					</div>
 				</div>
-				<img alt="" src="images/201704120001/201704120000.png"
+				<img alt="" src="images/catalog/icecream/icecream02.png"
 					class="main_pic" />
-				<p class="words_ahead buzhou_padding">【导语】草莓营养价值高，含丰富维生素C
-					，有帮助消化的功效，与此同时，草莓还可以巩固齿龈，清新口气，润泽喉部。</p>
+				<p class="words_ahead buzhou_padding">【导语】小家伙喜欢巧克力，基本上不管吃什么，只要有可选择的口味，他基本上都会选巧克力口味的，所以，当我打算做冰淇淋的时候，关于口味征求他的意见，他给我的答案仍然是巧克力。好吧，巧克力就巧克力，正好家里还有黑巧，拿了一些融进牛奶里面，后续的工作就是放到冰淇淋桶里面，然后我就该干啥干啥，时间到了把做好的冰淇淋倒出来再冻上就可以啦。</p>
 
 				<div class="row clearfix buzhou_padding">
 					<div class="col-md-1 column cailiao">材料</div>
@@ -63,16 +61,24 @@
 							</thead>
 							<tbody>
 								<tr>
-									<td>草莓</td>
-									<td>5-6个</td>
+									<td>鸡蛋黄</td>
+									<td>2个</td>
+								</tr>
+								<tr>
+									<td>淡奶油</td>
+									<td>150g</td>
+								</tr>
+								<tr>
+									<td>黑巧克力</td>
+									<td>50g</td>
+								</tr>
+								<tr>
+									<td>细砂糖</td>
+									<td>30g</td>
 								</tr>
 								<tr>
 									<td>牛奶</td>
-									<td>250ml</td>
-								</tr>
-								<tr>
-									<td>蜂蜜</td>
-									<td>少许</td>
+									<td>150ml</td>
 								</tr>
 							</tbody>
 						</table>
@@ -95,15 +101,15 @@
 							</thead>
 							<tbody>
 								<tr>
-									<td>杯子</td>
-									<td>2个</td>
-								</tr>
-								<tr>
-									<td>搅拌机或破壁机</td>
+									<td>打蛋器</td>
 									<td>1个</td>
 								</tr>
 								<tr>
-									<td>勺子</td>
+									<td>面包机</td>
+									<td>1个</td>
+								</tr>
+								<tr>
+									<td>冰袋</td>
 									<td>1个</td>
 								</tr>
 							</tbody>
@@ -114,36 +120,131 @@
 				<div class="row clearfix buzhou_padding">
 					<div class="col-md-1 column buzhou">1.</div>
 					<div class="col-md-11 column">
-						<p>准备好材料，喜欢更甜的可以再加点蜂蜜或者白糖，我不喜欢太甜，就直接牛奶和草莓。</p>
-						<img alt="" src="images/201704120001/201704120001.jpg"
+						<p>提前将冰淇淋桶放入冰箱冷冻室，冷冻至少12个小时</p>
+						<img alt="" src="images/choc/1.jpg"
 							class="buzhou_pic" />
 					</div>
 				</div>
 				<div class="row clearfix buzhou_padding">
 					<div class="col-md-1 column buzhou">2.</div>
 					<div class="col-md-11 column">
-						<p>全部放入破壁机，盖上盖子，选择旋钮到果蔬档，轻轻拨动开关，程序启动。</p>
-						<img alt="" src="images/201704120001/201704120002.jpg"
+						<p>细砂糖放入蛋黄中</p>
+						<img alt="" src="images/choc/2.jpg"
 							class="buzhou_pic" />
 					</div>
 				</div>
 				<div class="row clearfix buzhou_padding">
 					<div class="col-md-1 column buzhou">3.</div>
 					<div class="col-md-11 column">
-						<p>几十秒钟后，程序结束（也可以提前结束，因为真的很快很easy，旋钮拨到最下面，就能停止程序）草莓奶昔就做好了。看着就细腻的不得了，完全打破食物细胞壁，释放食物营养</p>
-						<img alt="" src="images/201704120001/201704120003.jpg"
+						<p>搅匀后用电动打蛋器打发至颜色变浅、体积膨大</p>
+						<img alt="" src="images/choc/3.jpg"
 							class="buzhou_pic" />
 					</div>
 				</div>
 				<div class="row clearfix buzhou_padding">
 					<div class="col-md-1 column buzhou">4.</div>
 					<div class="col-md-11 column">
-						<p>成果图。</p>
-						<img alt="" src="images/201704120001/201704120004.jpg"
+						<p>将牛奶倒入奶锅中，加入切碎的黑巧克力</p>
+						<img alt="" src="images/choc/4.jpg"
 							class="buzhou_pic" />
 					</div>
 				</div>
-
+				<div class="row clearfix buzhou_padding">
+					<div class="col-md-1 column buzhou">5.</div>
+					<div class="col-md-11 column">
+						<p>小火加热并搅拌，至微沸的状态关火</p>
+						<img alt="" src="images/choc/5.jpg"
+							class="buzhou_pic" />
+					</div>
+				</div>
+				<div class="row clearfix buzhou_padding">
+					<div class="col-md-1 column buzhou">6.</div>
+					<div class="col-md-11 column">
+						<p>将巧克力牛奶液慢慢倒入蛋黄糊中，注意边倒边用电动打蛋器搅拌</p>
+						<img alt="" src="images/choc/6.jpg"
+							class="buzhou_pic" />
+					</div>
+				</div>
+				<div class="row clearfix buzhou_padding">
+					<div class="col-md-1 column buzhou">7.</div>
+					<div class="col-md-11 column">
+						<p>直至最后全部倒完，再搅拌一会儿以使温度降至不烫手的程度，放到一边晾凉</p>
+						<img alt="" src="images/choc/7.jpg"
+							class="buzhou_pic" />
+					</div>
+				</div>
+				<div class="row clearfix buzhou_padding">
+					<div class="col-md-1 column buzhou">8.</div>
+					<div class="col-md-11 column">
+						<p>取淡奶油</p>
+						<img alt="" src="images/choc/8.jpg"
+							class="buzhou_pic" />
+					</div>
+				</div>
+				<div class="row clearfix buzhou_padding">
+					<div class="col-md-1 column buzhou">9.</div>
+					<div class="col-md-11 column">
+						<p>隔冰袋打发至出现纹路的状态</p>
+						<img alt="" src="images/choc/9.jpg"
+							class="buzhou_pic" />
+					</div>
+				</div>
+				<div class="row clearfix buzhou_padding">
+					<div class="col-md-1 column buzhou">10.</div>
+					<div class="col-md-11 column">
+						<p>将晾凉的巧克力蛋奶液慢慢倒入淡奶油中，边倒边搅拌</p>
+						<img alt="" src="images/choc/10.jpg"
+							class="buzhou_pic" />
+					</div>
+				</div>
+				<div class="row clearfix buzhou_padding">
+					<div class="col-md-1 column buzhou">11.</div>
+					<div class="col-md-11 column">
+						<p>最后搅打均匀，冰淇淋液就做好了</p>
+						<img alt="" src="images/choc/11.jpg"
+							class="buzhou_pic" />
+					</div>
+				</div>
+				<div class="row clearfix buzhou_padding">
+					<div class="col-md-1 column buzhou">12.</div>
+					<div class="col-md-11 column">
+						<p>取出冷冻室内的冰淇淋桶，装好变速器</p>
+						<img alt="" src="images/choc/12.jpg"
+							class="buzhou_pic" />
+					</div>
+				</div>
+				<div class="row clearfix buzhou_padding">
+					<div class="col-md-1 column buzhou">13.</div>
+					<div class="col-md-11 column">
+						<p>固定在面包机中</p>
+						<img alt="" src="images/choc/13.jpg"
+							class="buzhou_pic" />
+					</div>
+				</div>
+				<div class="row clearfix buzhou_padding">
+					<div class="col-md-1 column buzhou">14.</div>
+					<div class="col-md-11 column">
+						<p>倒入冰淇淋液并盖好盖子，选择14 iMix程序，设定时间25分钟，启动程序</p>
+						<img alt="" src="images/choc/14.jpg"
+							class="buzhou_pic" />
+					</div>
+				</div>
+				<div class="row clearfix buzhou_padding">
+					<div class="col-md-1 column buzhou">15.</div>
+					<div class="col-md-11 column">
+						<p>待程序结束时的成品是软质冰淇淋</p>
+						<img alt="" src="images/choc/15.jpg"
+							class="buzhou_pic" />
+					</div>
+				</div>
+				<div class="row clearfix buzhou_padding">
+					<div class="col-md-1 column buzhou">16.</div>
+					<div class="col-md-11 column">
+						<p>如果喜欢稍微硬一些的口感，可以将做好的冰淇淋放到冰箱里冷冻一段时间，冻硬即可</p>
+						<img alt="" src="images/choc/16.jpg"
+							class="buzhou_pic" />
+					</div>
+				</div>
 				<div class="post_box clearfix">
 					<textarea rows="5" cols="60" class="msg_box" placeholder="在这输入评论吧~"></textarea>
 					<button type="button"

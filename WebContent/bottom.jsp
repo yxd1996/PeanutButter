@@ -4,7 +4,6 @@
 	pageEncoding="UTF-8"%>
 <head>
 <title>花生酱</title>
-<link href="css/bottom.css" rel='stylesheet' type='text/css' />
 </head>
 <body>
 	<div class="container">
@@ -63,10 +62,10 @@
 			
 			</div>
 			<div class="col-md-3 column">
-				<label class="bottom_margin">联系我们</label>
-				<label class="reference">地址：南京大学鼓楼校区</label>
-				<label class="reference">电话：18260065398</label>
-				<label class="reference">邮箱：rhn14@nju.edu.cn</label>
+				<li><label class="bottom_margin">联系我们</label></li>
+				<li><label class="reference">地址：南京大学鼓楼校区</label></li>
+				<li><label class="reference">电话：18260065398</label></li>
+				<li><label class="reference">邮箱：rhn14@nju.edu.cn</label></li>
 			</div>
 			
 		</div>
