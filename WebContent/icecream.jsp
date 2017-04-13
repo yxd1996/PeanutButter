@@ -171,49 +171,204 @@
 				<ul class="breadcrumb">
 					<li><a href="index.jsp">首页</a></li>
 					<li class="active">按种类</a></li>
-					<li><a href="#">西式</a></li>
+					<li><a href="recipe_icecream.jsp">西式</a></li>
 					<li class="active">冰淇淋类</li>
 				</ul>
 				<!-- begin -->
 				<div class="row clearfix searchItem">
 					<div class="col-md-4 column">
-						<a href="#"> <img class="listImg" src="images/recommend/4.jpg"
-							alt="桂花牛奶冻" />
+						<a href="recipe_icecream.jsp"> <img class="listImg" src="images/catalog/icecream/icecream01.png"
+							alt="小白兔冰淇淋" />
 						</a>
 					</div>
-					<div class="col-md-6 column">
-						<a href="#">
-							<div class="searchTitle">好看又好吃的桂花牛奶冻哟~~</div>
+					<div class="col-md-8 column">
+						<a href="recipe_icecream.jsp">
+							<div class="searchTitle">炎炎夏日，小白兔冰淇淋，萌萌哒，美美哒～</div>
 						</a>
 						<div class="searchInfo">
+						<span class="tip">#清凉</span> <span
+							class="tip">#冰淇淋</span> <span
+							class="tip">#小白兔</span>
+					</div>
+						<div class="searchInfo">
 							<div class="searchOwn">
-								<i class="search-icon search-icon-own "></i> cyyyyyyy
-							</div>
-						</div>
-						<div class="searchInfo">
-							<div class="searchSave">
-								<i class="search-icon search-icon-save "></i> 523
-							</div>
-						</div>
-						<div class="searchInfo">
-							<div class="searchReply">
-								<i class="search-icon search-icon-reply "></i> 13
-							</div>
-						</div>
-						<div class="searchInfo">
-							<div class="searchView">
-								<i class="search-icon search-icon-view "></i> 1280
+								<i class="search-icon search-icon-own "></i> udani
 							</div>
 						</div>
 						<div class="searchInfo">
 							<div class="searchDate">
-								<i class="search-icon search-icon-date "></i> 2017-04-07 21:02
+								<i class="search-icon search-icon-date "></i> 2017-04-14 09:23
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchSave">
+								<i class="search-icon search-icon-save "></i> 558
+							</div>
+							<div class="searchReply">
+								<i class="search-icon search-icon-reply "></i> 58
+							</div>
+						
+							<div class="searchView">
+								<i class="search-icon search-icon-view "></i> 2288
 							</div>
 						</div>
 					</div>
-					<div class="col-md-2 column"></div>
 				</div>
 				<!-- end -->
+				<div class="row clearfix searchItem">
+					<div class="col-md-4 column">
+						<a href="recipe_icecream.jsp"> <img class="listImg" src="images/catalog/icecream/icecream02.png"
+							alt="巧克力冰淇淋" />
+						</a>
+					</div>
+					<div class="col-md-8 column">
+						<a href="recipe_icecream.jsp">
+							<div class="searchTitle">咬上一口巧克力冰淇淋，真是清凉一夏，回味无穷</div>
+						</a>
+						<div class="searchInfo"><span
+							class="tip">#巧克力</span>
+						<span
+							class="tip">#冰淇淋</span> 
+					</div>
+						<div class="searchInfo">
+							<div class="searchOwn">
+								<i class="search-icon search-icon-own "></i> 记得你的好
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchDate">
+								<i class="search-icon search-icon-date "></i> 2017-04-08 13:15
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchSave">
+								<i class="search-icon search-icon-save "></i> 405
+							</div>
+							<div class="searchReply">
+								<i class="search-icon search-icon-reply "></i> 36
+							</div>
+						
+							<div class="searchView">
+								<i class="search-icon search-icon-view "></i> 2051
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row clearfix searchItem">
+					<div class="col-md-4 column">
+						<a href="recipe_icecream.jsp"> <img class="listImg" src="images/catalog/icecream/icecream03.png"
+							alt="" />
+						</a>
+					</div>
+					<div class="col-md-8 column">
+						<a href="recipe_icecream.jsp">
+							<div class="searchTitle">丝滑的质感，美丽的色彩，花瓣的模样，最美的味道</div>
+						</a>
+						<div class="searchInfo">
+						 <span
+							class="tip">#冰淇淋</span> 
+					</div>
+						<div class="searchInfo">
+							<div class="searchOwn">
+								<i class="search-icon search-icon-own "></i> 浮生若梦
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchDate">
+								<i class="search-icon search-icon-date "></i> 2017-04-07 19:00
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchSave">
+								<i class="search-icon search-icon-save "></i> 336
+							</div>
+							<div class="searchReply">
+								<i class="search-icon search-icon-reply "></i> 35
+							</div>
+						
+							<div class="searchView">
+								<i class="search-icon search-icon-view "></i> 1388
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row clearfix searchItem">
+					<div class="col-md-4 column">
+						<a href="recipe_icecream.jsp"> <img class="listImg" src="images/catalog/icecream/icecream04.png"
+							alt="冰淇淋球" />
+						</a>
+					</div>
+					<div class="col-md-8 column">
+						<a href="recipe_icecream.jsp">
+							<div class="searchTitle">冰淇淋球的美味，甜甜的，凉凉的，爱你，就吃冰淇淋～</div>
+						</a>
+						<div class="searchInfo">
+						<span
+							class="tip">#冰淇淋</span> <span
+							class="tip">#冰淇淋球</span>
+					</div>
+						<div class="searchInfo">
+							<div class="searchOwn">
+								<i class="search-icon search-icon-own "></i> 星零
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchDate">
+								<i class="search-icon search-icon-date "></i> 2017-04-14 09:23
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchSave">
+								<i class="search-icon search-icon-save "></i> 223
+							</div>
+							<div class="searchReply">
+								<i class="search-icon search-icon-reply "></i> 33
+							</div>
+						
+							<div class="searchView">
+								<i class="search-icon search-icon-view "></i> 2388
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row clearfix searchItem">
+					<div class="col-md-4 column">
+						<a href="recipe_icecream.jsp"> <img class="listImg" src="images/catalog/icecream/icecream05.png"
+							alt="" />
+						</a>
+					</div>
+					<div class="col-md-8 column">
+						<a href="recipe_icecream.jsp">
+							<div class="searchTitle">低热量的冰淇淋，再也不用担心发胖啦～女生的首选</div>
+						</a>
+						<div class="searchInfo">
+						<span class="tip">#低热量</span> <span
+							class="tip">#冰淇淋</span>
+					</div>
+						<div class="searchInfo">
+							<div class="searchOwn">
+								<i class="search-icon search-icon-own "></i>滴墨成伤_
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchDate">
+								<i class="search-icon search-icon-date "></i> 2017-04-14 09:23
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchSave">
+								<i class="search-icon search-icon-save "></i> 153
+							</div>
+							<div class="searchReply">
+								<i class="search-icon search-icon-reply "></i> 14
+							</div>
+						
+							<div class="searchView">
+								<i class="search-icon search-icon-view "></i> 1588
+							</div>
+						</div>
+					</div>
+				</div>
 				<div class="pageControl">
 					<ul class="pagination">
 						<li><a href="#">Prev</a></li>
@@ -228,5 +383,6 @@
 			</div>
 		</div>
 	</div>
+	<%@include file="bottom.jsp"%>
 </body>
 </html>

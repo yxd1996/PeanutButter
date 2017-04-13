@@ -45,7 +45,7 @@
 								<table class="secondtable">
 									<tbody>
 										<tr>
-											<td><a href="#">冰淇淋类</a></td>
+											<td><a href="icecream.jsp">冰淇淋类</a></td>
 											<td><a href="#">巧克力类</a></td>
 											<td><a href="#">糕饼类</a></td>
 										</tr>
@@ -193,7 +193,7 @@
 		</div>
 		<div class="row clearfix">
 			<div class="col-md-12 column">
-				<div class="divvv"> </div>
+				<div class="divvv"></div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/dynamic_icon.png" alt="" class="little_icon" />
@@ -274,7 +274,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="divvv"> </div>
+				<div class="divvv"></div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/popular_icon.png" alt="" class="little_icon" />
@@ -355,7 +355,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="divvv"> </div>
+				<div class="divvv"></div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/newfind_icon.png" alt="" class="little_icon" />
@@ -436,7 +436,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="divvv"> </div>
+				<div class="divvv"></div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -517,7 +517,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="divvv"> </div>
+				<div class="divvv"></div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -599,7 +599,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="divvv"> </div>
+				<div class="divvv"></div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -680,7 +680,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="divvv"> </div>
+				<div class="divvv"></div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -761,7 +761,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="divvv"> </div>
+				<div class="divvv"></div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -843,7 +843,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="divvv"> </div>
+				<div class="divvv"></div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -924,7 +924,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="divvv"> </div>
+				<div class="divvv"></div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -1005,7 +1005,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="divvv"> </div>
+				<div class="divvv"></div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
 						<img src="images/concrete_icon.png" alt="" class="little_icon" />
@@ -1086,11 +1086,9 @@
 							</div>
 						</div>
 					</div>
-					<footer>
-					<p class="pull-right">
-						<a href="#">返回顶部</a>
-					</p>
-					</footer>
+					<a href="#">
+						<div id="pull-right"></div>
+					</a>
 				</div>
 			</div>
 		</div>
