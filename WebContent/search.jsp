@@ -8,6 +8,7 @@
 <link href="css/base.css" rel='stylesheet' type='text/css' />
 <link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
 <link href="css/style.css" rel='stylesheet' type='text/css' />
+<link href="css/search.css" rel='stylesheet' type='text/css' />
 </head>
 <body>
 	<%@include file="top.jsp"%>
@@ -164,151 +165,62 @@
 					</ul>
 				</div>
 			</div>
-			<div class="col-md-9 column">
-				<div class="carousel slide">
-					<ol class="carousel-indicators">
-						<li data-slide-to="0"></li>
-						<li data-slide-to="1" class="active"></li>
-						<li data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="item active">
-							<img alt="" src="images/recommend/001.jpg" />
-							<div class="carousel-caption">
-								<h4>你喜欢草莓吗~</h4>
-								<p>又到了草莓上市的季节,每当走到草莓摊前,看到那红彤彤的草莓,闻到那一股甜丝丝的香味,我就会像只馋嘴的小猫,忍不住垂涎欲滴。</p>
+			<div class="col-md-9 column searchbox">
+				<ul class="breadcrumb">
+					<li><a href="index.jsp">首页</a></li>
+					<li class="active">搜索</a></li>
+					<li class="active">"搅拌机""草莓"</li>
+				</ul>
+				<!-- begin -->
+				<div class="row clearfix searchItem">
+					<div class="col-md-4 column">
+						<a href="#"> <img class="listImg" src="images/recommend/4.jpg"
+							alt="桂花牛奶冻" />
+						</a>
+					</div>
+					<div class="col-md-6 column">
+						<a href="#">
+							<div class="searchTitle">好看又好吃的桂花牛奶冻哟~~</div>
+						</a>
+						<div class="searchInfo">
+							<div class="searchOwn">
+								<i class="search-icon search-icon-own "></i> cyyyyyyy
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchSave">
+								<i class="search-icon search-icon-save "></i> 523
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchReply">
+								<i class="search-icon search-icon-reply "></i> 13
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchView">
+								<i class="search-icon search-icon-view "></i> 1280
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchDate">
+								<i class="search-icon search-icon-date "></i> 2017-04-07 21:02
 							</div>
 						</div>
 					</div>
-					<a class="left carousel-control" href="#carousel-753926"
-						data-slide="prev"><span
-						class="glyphicon glyphicon-chevron-left"></span></a> <a
-						class="right carousel-control" href="#carousel-753926"
-						data-slide="next"><span
-						class="glyphicon glyphicon-chevron-right"></span></a>
+					<div class="col-md-2 column"></div>
 				</div>
-			</div>
-		</div>
-		<div class="row clearfix">
-			<div class="col-md-12 column">
-				<div class="row clearfix">
-					<div class="col-md-12 column">
-						<img src="images/dynamic_icon.png" alt="" class="little_icon" />
-						<span style="font-size: 1.25rem;margin-left:2px;">动态</span>
-						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
-					</div>
-				</div>
-				<div class="row clearfix">
-					<div class="col-md-3 column">
-			 	<a href="#">
-				<img class="listImg" src="images/recommend/4.jpg" alt="桂花牛奶冻" /> 
-				<div class="listTitle">好看又好吃的桂花牛奶冻哟一起来做吧~~~~</div>				
-				</a>
-				<div class="listInfo">
-					<div class="listOwn">
-						<i class="list-icon list-icon-own "></i>
-						cy
-					</div>
-					<div class="listSave">
-						<i class="list-icon list-icon-save "></i>
-						523
-					</div>
-					<div class="listView">
-						<i class="list-icon list-icon-view "></i>
-						1280
-					</div>
-				</div>
-				</div>
-					<div class="col-md-3 column">
-						<img class="listImg" src="images/recommend/5.jpg" alt="土豆饼"> <br> 土豆饼 
-					</div>
-					<div class="col-md-3 column">
-						<img class="listImg" src="images/recommend/6.jpg" alt="圣诞小蛋糕"> <br>
-								圣诞小蛋糕 
-					</div>
-
-					<div class="col-md-3 column">
-						<img class="listImg" src="images/recommend/6.jpg" alt="圣诞小蛋糕"> <br>
-								圣诞小蛋糕 
-					</div>
-				</div>
-				<div class="row clearfix">
-					<div class="col-md-12 column">
-						<img src="images/popular_icon.png" alt="" />
-						<span style="font-size: 1.25rem;">热门</span>
-						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
-					</div>
-				</div>
-				<div class="row clearfix">
-					<div class="col-md-3 column">
-						<img class="listImg" src="images/recommend/7.jpg" alt="柠檬蓝莓酸奶面包" /> <br>柠檬蓝莓酸奶面包
-
-						
-					</div>
-					<div class="col-md-3 column">
-						<img class="listImg" src="images/recommend/8.jpg" alt="脆皮香蕉"> <br> 脆皮香蕉
-						
-					</div>
-					<div class="col-md-3 column">
-
-						<img class="listImg" src="images/recommend/9.jpg" alt="膏蟹粥"> <br> 膏蟹粥 
-					</div>
-					<div class="col-md-3 column">
-						<img class="listImg" src="images/recommend/9.jpg" alt="膏蟹粥"> <br> 膏蟹粥 
-					</div>
-				</div>
-				<div class="row clearfix">
-					<div class="col-md-12 column">
-					<img src="images/newfind_icon.png" alt="" />
-						<span style="font-size: 1.25rem;">新发现</span>
-						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
-					</div>
-				</div>
-				<div class="row clearfix">
-					<div class="col-md-3 column">
-						<img class="listImg" src="images/recommend/10.jpg" alt="面包杂蔬BBQ " /> <br>面包杂蔬BBQ
-						
-					</div>
-					<div class="col-md-3 column">
-						<img class="listImg" src="images/recommend/11.jpg" alt="芙蓉鸡丝粥"> <br>
-								芙蓉鸡丝粥 
-					</div>
-					<div class="col-md-3 column">
-						<img class="listImg" src="images/recommend/12.jpg" alt="白菜烧麦"> <br>白菜烧麦
-						
-					</div>
-					<div class="col-md-3 column">
-						<img class="listImg" src="images/recommend/12.jpg" alt="白菜烧麦"> <br>白菜烧麦
-						
-					</div>
-				</div>
-			</div>
-		</div>
-		<dr></dr>
-		<div class="row clearfix">
-			<div class="col-md-12 column">
-				<div class="row clearfix">
-					<div class="col-md-12 column">
-						<img src="images/concrete_icon.png" alt="" />
-						<span style="font-size: 1.25rem;">分区一</span>
-						<Button style="float: right;" class="btn btn-link" type="button">更多></Button>
-					</div>
-				</div>
-				<div class="row clearfix">
-					<div class="col-md-3 column">
-						<img class="listImg" src="images/recommend/14.jpg" alt="和果子"> <br> 和果子</br>
-					</div>
-					<div class="col-md-3 column">
-						<img class="listImg" src="images/recommend/15.jpg" alt="冰咖啡"> <br> 冰咖啡</br>
-					</div>
-					<div class="col-md-3 column">
-						<img class="listImg" src="images/recommend/16.jpg" alt="珍珠奶茶霜淇淋"> <br>
-								珍珠奶茶霜淇淋 </br>
-					</div>
-					<div class="col-md-3 column">
-						<img class="listImg" src="images/recommend/17.jpg" alt="盆栽鸳鸯奶茶"> <br>
-								盆栽鸳鸯奶茶 </br>
-					</div>
+				<!-- end -->
+				<div class="pageControl">
+					<ul class="pagination">
+						<li><a href="#">Prev</a></li>
+						<li><a href="#">1</a></li>
+						<li><a href="#">2</a></li>
+						<li><a href="#">3</a></li>
+						<li><a href="#">4</a></li>
+						<li><a href="#">5</a></li>
+						<li><a href="#">Next</a></li>
+					</ul>
 				</div>
 			</div>
 		</div>

@@ -1,0 +1,71 @@
+.searchbox{
+	border-radius:5px 5px 5px 5px;
+	border:5px solid #9a5034;
+}
+.searchItem {
+	margin-top:16px;
+}
+
+.searchTitle {
+    width: 300px;
+	max-width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin-top:8px;
+}
+
+.searchInfo,.searchOwn,.searchSave,.searchView,.searchReply,.searchDate {
+	display: inline-block;
+    vertical-align: bottom;
+    color: #99a2aa;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    line-height: 18px;
+    font-size:13px;
+}
+.searchInfo,.search-icon,.searchOwn, .searchSave, .searchView,.searchReply,.searchDate {
+	vertical-align: top;
+    margin-right: 5px;
+}
+.searchInfo {
+	padding-top:8px;
+	width:450px;
+	max-width:100%;
+}
+
+.searchOwn,.searchSave,.searchView,.searchReply,.searchDate{
+	width: 450px;
+}
+
+.search-icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 12px;
+    height: 12px;
+    background: url(../images/icons.png) no-repeat;
+}
+.search-icon.search-icon-own {
+    background-position: -282px -154px;
+}
+
+.search-icon.search-icon-reply {
+    background-position: -282px -218px;
+}
+
+.search-icon.search-icon-save {
+    background-position: -282px -346px;
+}
+.search-icon.search-icon-view {
+    background: url(../images/view.png);
+}
+.search-icon.search-icon-date {
+    background: url(../images/calendar.png);
+}
+
+
+.pageControl{
+	display:block;
+	text-align:center;
+}
