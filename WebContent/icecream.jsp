@@ -169,7 +169,7 @@
 				<ul class="breadcrumb">
 					<li><a href="index.jsp">首页</a></li>
 					<li class="active">按种类</a></li>
-					<li><a href="#">西式</li>
+					<li><a href="#">西式</a></li>
 					<li class="active">冰淇淋类</li>
 				</ul>
 				<!-- begin -->
@@ -212,7 +212,17 @@
 					<div class="col-md-2 column"></div>
 				</div>
 				<!-- end -->
-
+				<div class="pageControl">
+					<ul class="pagination">
+						<li><a href="#">Prev</a></li>
+						<li><a href="#">1</a></li>
+						<li><a href="#">2</a></li>
+						<li><a href="#">3</a></li>
+						<li><a href="#">4</a></li>
+						<li><a href="#">5</a></li>
+						<li><a href="#">Next</a></li>
+					</ul>
+				</div>
 			</div>
 		</div>
 	</div>
