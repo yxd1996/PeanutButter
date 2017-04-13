@@ -21,7 +21,7 @@
 							style="text-decoration: none; margin-left: 1em; margin-right: 1em;"
 							href="#">按种类</a>
 							<div class="secondlist">
-								<label><a style="margin-top: 0.5em;"#">中式</a></label>
+								<label><a style="margin-top: 0.5em;" href="#">中式</a></label>
 								<table class="secondtable">
 									<tbody>
 										<tr>
@@ -83,7 +83,7 @@
 							style="text-decoration: none; margin-left: 1em; margin-right: 1em;"
 							href="#">按特别元素</a>
 							<div class="secondlist">
-								<label><a style="margin-top: 0.5em;"#">水果</a></label>
+								<label><a style="margin-top: 0.5em;" href="#">水果</a></label>
 								<table class="secondtable">
 									<tbody>
 										<tr>
@@ -130,7 +130,7 @@
 							style="text-decoration: none; margin-left: 1em; margin-right: 1em;"
 							href="#">按难度</a>
 							<div class="secondlist">
-								<label><a style="margin-top: 0.5em;"#">简单</a></label>
+								<label><a style="margin-top: 0.5em;" href="#">简单</a></label>
 								<table class="secondtable">
 									<tbody>
 										<tr>
