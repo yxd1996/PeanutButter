@@ -198,18 +198,18 @@
 				<ul class="breadcrumb">
 					<li><a href="index.jsp">首页</a></li>
 					<li class="active">按种类</a></li>
-					<li><a href="recipe_icecream.jsp">西式</a></li>
+					<li><a href="#">西式</a></li>
 					<li class="active">冰淇淋类</li>
 				</ul>
 				<!-- begin -->
 				<div class="row clearfix searchItem">
 					<div class="col-md-4 column">
-						<a href="recipe_icecream.jsp"> <img class="listImg" src="images/catalog/icecream/icecream01.png"
+						<a href="#"> <img class="listImg" src="images/catalog/icecream/icecream01.png"
 							alt="小白兔冰淇淋" />
 						</a>
 					</div>
 					<div class="col-md-8 column">
-						<a href="recipe_icecream.jsp">
+						<a href="#">
 							<div class="searchTitle">炎炎夏日，小白兔冰淇淋，萌萌哒，美美哒～</div>
 						</a>
 						<div class="searchInfo">
@@ -244,12 +244,12 @@
 				<!-- end -->
 				<div class="row clearfix searchItem">
 					<div class="col-md-4 column">
-						<a href="recipe_icecream.jsp"> <img class="listImg" src="images/catalog/icecream/icecream02.png"
+						<a href="recipe_icecream.jsp"  target="_blank"> <img class="listImg" src="images/catalog/icecream/icecream02.png"
 							alt="巧克力冰淇淋" />
 						</a>
 					</div>
 					<div class="col-md-8 column">
-						<a href="recipe_icecream.jsp">
+						<a href="recipe_icecream.jsp"  target="_blank">
 							<div class="searchTitle">咬上一口巧克力冰淇淋，真是清凉一夏，回味无穷</div>
 						</a>
 						<div class="searchInfo"><span
@@ -283,12 +283,12 @@
 				</div>
 				<div class="row clearfix searchItem">
 					<div class="col-md-4 column">
-						<a href="recipe_icecream.jsp"> <img class="listImg" src="images/catalog/icecream/icecream03.png"
+						<a href="#"> <img class="listImg" src="images/catalog/icecream/icecream03.png"
 							alt="" />
 						</a>
 					</div>
 					<div class="col-md-8 column">
-						<a href="recipe_icecream.jsp">
+						<a href="#">
 							<div class="searchTitle">丝滑的质感，美丽的色彩，花瓣的模样，最美的味道</div>
 						</a>
 						<div class="searchInfo">
@@ -321,12 +321,12 @@
 				</div>
 				<div class="row clearfix searchItem">
 					<div class="col-md-4 column">
-						<a href="recipe_icecream.jsp"> <img class="listImg" src="images/catalog/icecream/icecream04.png"
+						<a href="#"> <img class="listImg" src="images/catalog/icecream/icecream04.png"
 							alt="冰淇淋球" />
 						</a>
 					</div>
 					<div class="col-md-8 column">
-						<a href="recipe_icecream.jsp">
+						<a href="#">
 							<div class="searchTitle">冰淇淋球的美味，甜甜的，凉凉的，爱你，就吃冰淇淋～</div>
 						</a>
 						<div class="searchInfo">
@@ -360,12 +360,12 @@
 				</div>
 				<div class="row clearfix searchItem">
 					<div class="col-md-4 column">
-						<a href="recipe_icecream.jsp"> <img class="listImg" src="images/catalog/icecream/icecream05.png"
+						<a href="#"> <img class="listImg" src="images/catalog/icecream/icecream05.png"
 							alt="" />
 						</a>
 					</div>
 					<div class="col-md-8 column">
-						<a href="recipe_icecream.jsp">
+						<a href="#">
 							<div class="searchTitle">低热量的冰淇淋，再也不用担心发胖啦～女生的首选</div>
 						</a>
 						<div class="searchInfo">

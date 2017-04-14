@@ -138,50 +138,55 @@ body a {
     text-overflow: ellipsis;
 }
 
-.listInfo,.listOwn,.listSave,.listView {
+.listInfo,.listOwn,.listSave,.listView,.listDate {
 	display: inline-block;
-    vertical-align: bottom;
+    vertical-align: center;
     color: #99a2aa;
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
-    line-height: 16px;
-    font-size:12px;
+    line-height: 13px;
+    font-size:13px;
 }
-.listInfo,.list-icon,.listOwn, .listSave, .listView {
-	vertical-align: top;
+.listInfo,.list-icon,.listOwn, .listSave, .listView,.listDate {
+	vertical-align: center;
     margin-right: 5px;
 }
 .listInfo {
-	padding-top:8px;
+	padding-top:15px;
 	width:300px;
 	max-width:100%;
 }
 
-.listOwn {
-	width:90px;
+.listOwn{
+	width:110px;
+}
+.listDate {
+	width:110px;
 }
 .listSave,.listView{
-	width: 80px;
+	width: 60px;
     margin-left: 10px;
 }
 
 .list-icon {
-    display: inline-block;
-    vertical-align: middle;
-    width: 12px;
-    height: 12px;
-    background: url(../images/icons.png) no-repeat;
+	vertical-align: bottom;
+	display: inline-block;
+	width: 13px;
+    height: 13px;
 }
 .list-icon.list-icon-own {
-    background-position: -282px -154px;
+    background: url(../images/icon/yonghu.png) no-repeat center;
 }
 
 .list-icon.list-icon-save {
-    background-position: -282px -346px;
+    background: url(../images/icon/shoucang.png) no-repeat center;
 }
 .list-icon.list-icon-view {
-    background: url(../images/view.png);
+    background: url(../images/icon/liulan.png) no-repeat center;
+}
+.list-icon.list-icon-date {
+    background: url(../images/icon/rili.png) no-repeat center;
 }
 
 .mylist{

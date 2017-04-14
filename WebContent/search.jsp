@@ -208,7 +208,7 @@
 						</a>
 					</div>
 					<div class="col-md-6 column">
-						<a href="recipe.jsp">
+						<a href="recipe.jsp"  target="_blank">
 							<div class="searchTitle">【简单】十分钟教你做草莓奶昔~</div>
 						</a>
 						<div class="searchInfo">

@@ -25,3 +25,14 @@ function comment() {
 	div.style.display = 'block';
 }
 
+
+function like(){
+	var btn = document.getElementById("likeBtn");
+	if (btn.innerText == '关注TA'){
+		btn.innerText = '已关注';
+	}
+	else{
+		btn.innerText = '关注TA';
+	}
+}
+

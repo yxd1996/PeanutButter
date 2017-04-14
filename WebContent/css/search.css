@@ -14,21 +14,20 @@
 
 .searchInfo,.searchOwn,.searchSave,.searchView,.searchReply,.searchDate {
 	display: inline-block;
-    vertical-align: bottom;
     color: #99a2aa;
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
-    line-height: 18px;
+    line-height: 16px;
     font-size:13px;
 }
 .searchInfo,.search-icon,.searchOwn, .searchSave, .searchView,.searchReply,.searchDate {
-	vertical-align: top;
+	vertical-align: center;
     margin-right: 5px;
     margin-left:2px;
 }
 .searchInfo {
-	padding-top:1em;
+	padding-top:15px;
 	width:25em;
 	max-width:100%;
 }
@@ -42,28 +41,27 @@
 }
 
 .search-icon {
-    display: inline-block;
-    vertical-align: middle;
-    width: 12px;
-    height: 12px;
-    background: url(../images/icons.png) no-repeat;
+    vertical-align: center;
+	display: inline-block;
+	width: 13px;
+    height: 13px;
 }
 .search-icon.search-icon-own {
-    background-position: -282px -154px;
+    background: url(../images/icon/yonghu.png) no-repeat center;
 }
 
 .search-icon.search-icon-reply {
-    background-position: -282px -218px;
+     background: url(../images/icon/pinglun.png) no-repeat center;
 }
 
 .search-icon.search-icon-save {
-    background-position: -282px -346px;
+     background: url(../images/icon/shoucang.png) no-repeat center;
 }
 .search-icon.search-icon-view {
-    background: url(../images/view.png);
+     background: url(../images/icon/liulan.png) no-repeat center;
 }
 .search-icon.search-icon-date {
-    background: url(../images/calendar.png);
+     background: url(../images/icon/rili.png) no-repeat center;
 }
 
 

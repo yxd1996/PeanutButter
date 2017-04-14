@@ -24,7 +24,7 @@
 				<img alt="" src="images/876.jpeg" class="img-circle" /> <label
 					class="name">udani</label>
 				<p class="signature">这个人很懒，什么都没有留下~</p>
-				<button type="button" class="btn btn-default btn-success focus_btn">关注TA</button>
+				<button id="likeBtn" type="button" class="btn focus_btn" onclick="javascript:like()">关注TA</button>
 			</div>
 			<!-- ——————————————————个人信息部分 结束——————————————————-->
 
