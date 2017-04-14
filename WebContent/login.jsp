@@ -20,7 +20,7 @@
 				</div>
 				<div class="col-md-6 column">
 					<img alt="" src="images/123456.png" class="login_logo"/>
-					<form class="form-horizontal info_padding" role="form">
+					<form class="form-horizontal info_padding" role="form" action="index.jsp">
 						<div class="form-group">
 							<div class="col-sm-10 username_input" >
 								<input type="text" class="form-control " id="inputEmail3" placeholder="请输入您的账号" />
@@ -33,7 +33,7 @@
 						</div>
 						<label class="rememberme"><input type="checkbox" />&nbsp;记住密码</label>
 						<a href="#" class="forgetpassword">忘记密码？</a>
-						<button type="button" class="btn btn-default btn-success login_btn">登&nbsp;&nbsp;录</button>
+						<button type="submit" class="btn btn-default btn-success login_btn">登&nbsp;&nbsp;录</button>
 						<li><a href="register.jsp" class="loginnow">还没账号？点这注册~</a></li>
 					</form>
 				</div>
