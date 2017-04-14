@@ -212,7 +212,7 @@
 						</a>
 						<div class="listInfo">
 							<div class="listOwn">
-								<i class="list-icon list-icon-own "></i> cy
+								<i class="list-icon list-icon-own "></i> orz
 							</div>
 							<div class="listSave">
 								<i class="list-icon list-icon-save "></i> 30

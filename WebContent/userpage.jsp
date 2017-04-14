@@ -59,16 +59,17 @@
 				<div class="myworks-titleline">
 					<h1 id="post-header" class="myworks-title">TA发布的</h1>
 				</div>
+				<div class="text-cap"></div>
 				<div class="row clearfix">
 					<!-- begin -->
 					<div class="col-md-4 column myworks-item">
-						<a href="#"> <img class="listImg"
-							src="images/index/find/find01.jpg" alt="白菜烧麦" />
-							<div class="listTitle">见过绿色的烧麦吗？白菜烧麦，另一种美味</div>
+						<a href="receipt.jsp" title="【简单】十分钟教你做草莓奶昔~"> <img class="listImg"
+							src="images/user/cy/01.png" alt="草莓奶昔" />
+							<div class="listTitle">【简单】十分钟教你做草莓奶昔~</div>
 						</a>
 						<div class="listInfo">
-							<div class="listOwn">
-								<i class="list-icon list-icon-own "></i> cy
+							<div class="listDate">
+								<i class="list-icon list-icon-date "></i> 2017-04-09
 							</div>
 							<div class="listSave">
 								<i class="list-icon list-icon-save "></i> 2
@@ -113,7 +114,9 @@
 							</div>
 						</div>
 					</div>
-
+				</div>
+					<div class="text-cap"></div>
+				<div class="row clearfix">
 
 					<!-- begin -->
 					<div class="col-md-4 column myworks-item">

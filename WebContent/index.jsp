@@ -212,7 +212,7 @@
 						</a>
 						<div class="listInfo">
 							<div class="listOwn">
-								<i class="list-icon list-icon-own "></i> cy
+								<i class="list-icon list-icon-own "></i> orz
 							</div>
 							<div class="listSave">
 								<i class="list-icon list-icon-save "></i> 30
@@ -1052,8 +1052,7 @@
 						</div>
 					</div>
 					<div class="col-md-3 column">
-						<a href="#" title="Black and white，This is Opera,
-								Delicious!!!!"> <img class="listImg"
+						<a href="#" title="Black and white，This is Opera,Delicious!!!!"> <img class="listImg"
 							src="images/index/complex/complex03.png" alt="" />
 							<div class="listTitle">Black and white,This is Opera, Delicious!!!!</div>
 						</a>
