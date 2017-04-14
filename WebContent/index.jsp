@@ -116,7 +116,7 @@
 										</tr>
 									</tbody>
 								</table>
-								
+
 								<label> <a href="#">口味</a></label>
 								<table class="secondtable">
 									<tbody>
@@ -137,7 +137,7 @@
 										</tr>
 									</tbody>
 								</table>
-								
+
 								<label> <a href="#">工具</a></label>
 								<table class="secondtable">
 									<tbody>
@@ -194,27 +194,19 @@
 				</div>
 			</div>
 			<div class="col-md-9 column">
-				<div class="carousel slide">
-					<ol class="carousel-indicators">
-						<li data-slide-to="0"></li>
-						<li data-slide-to="1" class="active"></li>
-						<li data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="item active">
-							<img alt="" src="images/recommend/001.jpg" />
-							<div class="carousel-caption">
-								<h4>你喜欢草莓吗~</h4>
-								<p>又到了草莓上市的季节,每当走到草莓摊前,看到那红彤彤的草莓,闻到那一股甜丝丝的香味,我就会像只馋嘴的小猫,忍不住垂涎欲滴。</p>
-							</div>
-						</div>
-					</div>
-					<a class="left carousel-control" href="#carousel-753926"
-						data-slide="prev"><span
-						class="glyphicon glyphicon-chevron-left"></span></a> <a
-						class="right carousel-control" href="#carousel-753926"
-						data-slide="next"><span
-						class="glyphicon glyphicon-chevron-right"></span></a>
+				<div class="banner">
+					<ul class="recommend_pic">
+						<li><img src="images/001.jpg"></li>
+						<li><img src="images/002.jpg"></li>
+						<li><img src="images/003.jpg"></li>
+					</ul>
+					<ul class="recommend_page">
+						<li></li>
+						<li></li>
+						<li></li>
+					</ul>
+					<div class="btn_left">&lt;</div>
+					<div class="btn_right">&gt;</div>
 				</div>
 			</div>
 		</div>
@@ -870,7 +862,7 @@
 						</div>
 					</div>
 				</div>
-				
+
 				<div class="divvv"></div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
@@ -953,7 +945,7 @@
 						</div>
 					</div>
 				</div>
-				
+
 				<div class="divvv"></div>
 				<div class="row clearfix">
 					<div class="col-md-12 column">
@@ -1197,13 +1189,13 @@
 							</div>
 						</div>
 					</div>
-					<a href="#">
-						<img class="pull-right" src="images/backtotop.png"></img>
+					<a href="#"> <img class="pull-right" src="images/backtotop.png"></img>
 					</a>
 				</div>
 			</div>
 		</div>
 	</div>
 	<%@include file="bottom.jsp"%>
+	<script type="text/javascript" src="js/index.js"></script>
 </body>
 </html>

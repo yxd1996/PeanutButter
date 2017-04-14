@@ -259,3 +259,84 @@ body a {
 	width:50px;
 	height:auto;
 }
+
+.banner{
+	position:relative;
+	width:100%;
+	height:300px;
+	overflow: hidden;
+}
+
+.recommend_pic{
+	position:relative;
+	width:400%;
+	height:100%;
+}
+
+.recommend_pic li{
+	float:left;
+	width:25%;
+	height:100%;
+}
+
+.recommend_pic li img{
+	width:100%;
+	height:100%;
+}
+
+.recommend_page{
+	position: absolute;
+	width:100%;
+	height:20px;
+	bottom: 0px;
+	text-align:center; 
+	font-size:0px;
+}
+
+.recommend_page li{
+	width:10px;
+	height:10px;
+	border-radius: 50%;
+	display: inline-block;
+	background-color: #fff; 
+	margin:0 10px;
+}
+
+.recommend_page li.on{
+	background:#9a5034;
+}
+
+.btn_left{
+	position:absolute;
+	top:50%;
+	margin-top:-20px;
+	left:0px;
+	width:50px;
+	height:40px;
+	background-color: #888888;
+	text-align: center;
+	line-height:40px;
+	background:rgba(0,0,0,0.5);
+	color:#ffffff;
+	font-family:宋体;
+	cursor: pointer;
+}
+
+.btn_right{
+	position:absolute;
+	top:50%;
+	margin-top:-20px;
+	line-height:40px;
+	right:0px;
+	width:50px;
+	height:40px;
+	background-color: #888888;
+	text-align: center;
+	color:#ffffff;
+	background:rgba(0,0,0,0.5);
+	font-family:宋体;
+	cursor: pointer;
+}
+
+
+

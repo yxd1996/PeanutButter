@@ -46,7 +46,7 @@
 								<table class="secondtable">
 									<tbody>
 										<tr>
-											<td><a href="#">冰淇淋类</a></td>
+											<td><a href="icecream.jsp">冰淇淋类</a></td>
 											<td><a href="#">巧克力类</a></td>
 											<td><a href="#">糕饼类</a></td>
 										</tr>
@@ -76,6 +76,8 @@
 											<td><a href="#">印式</a></td>
 										</tr>
 										<tr>
+											<td><a href="#">意式</a></td>
+											<td><a href="#">法式</a></td>
 											<td><a href="#">其他</a></td>
 										</tr>
 									</tbody>
@@ -96,33 +98,58 @@
 										<tr>
 											<td><a href="#">柠檬</a></td>
 											<td><a href="#">榴莲</a></td>
-											<td><a href="#">其他</a></td>
+											<td><a href="#">蓝莓</a></td>
 										</tr>
 									</tbody>
 								</table>
-								<label><a href="#">颗粒</a></label>
+								<label><a href="#">辅料</a></label>
 								<table class="secondtable">
 									<tbody>
 										<tr>
 											<td><a href="#">红豆</a></td>
 											<td><a href="#">椰果</a></td>
-											<td><a href="#">珍珠</a></td>
+											<td><a href="#">蜂蜜</a></td>
 										</tr>
 										<tr>
-											<td><a href="#">其他</a></td>
+											<td><a href="#">芝士</a></td>
+											<td><a href="#">桂花</a></td>
+											<td><a href="#">果酱</a></td>
 										</tr>
 									</tbody>
 								</table>
-								</label> <label> <a href="#">点缀</a></label>
+								
+								<label> <a href="#">口味</a></label>
 								<table class="secondtable">
 									<tbody>
 										<tr>
-											<td><a href="#">芝士</a></td>
-											<td><a href="#">奶油</a></td>
+											<td><a href="#">草莓</a></td>
 											<td><a href="#">巧克力</a></td>
+											<td><a href="#">抹茶</a></td>
 										</tr>
 										<tr>
-											<td><a href="#">其他</a></td>
+											<td><a href="#">芋</a></td>
+											<td><a href="#">榴莲</a></td>
+											<td><a href="#">芒果</a></td>
+										</tr>
+										<tr>
+											<td><a href="#">香草</a></td>
+											<td><a href="#">咖啡</a></td>
+											<td><a href="#">牛奶</a></td>
+										</tr>
+									</tbody>
+								</table>
+								
+								<label> <a href="#">工具</a></label>
+								<table class="secondtable">
+									<tbody>
+										<tr>
+											<td><a href="#">面包机</a></td>
+											<td><a href="#">烤箱</a></td>
+											<td><a href="#">榨汁机</a></td>
+										</tr>
+										<tr>
+											<td><a href="#">搅拌机</a></td>
+											<td><a href="#">微波炉</a></td>
 										</tr>
 									</tbody>
 								</table>
@@ -152,7 +179,7 @@
 										</tr>
 									</tbody>
 								</table>
-								</label> <label> <a href="#">复杂</a></label>
+								<label> <a href="#">复杂</a></label>
 								<table class="secondtable">
 									<tbody>
 										<tr>
