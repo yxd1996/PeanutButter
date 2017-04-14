@@ -12,7 +12,7 @@
 <link href="css/recipe.css" rel='stylesheet' type='text/css' />
 <link href="css/top.css" rel='stylesheet' type='text/css' />
 <link href="css/bottom.css" rel='stylesheet' type='text/css' />
-<script src="js/save.js"></script>
+<script src="js/recipe.js"></script>
 </head>
 <body>
 	<%@include file="top.jsp"%>
@@ -247,15 +247,29 @@
 					</div>
 				</div>
 				<div class="post_box clearfix">
-					<textarea rows="5" cols="60" class="msg_box" placeholder="在这输入评论吧~"></textarea>
+					<textarea id="commentInput" rows="5" cols="60" class="msg_box" placeholder="在这输入评论吧~"></textarea>
 					<button type="button"
-						class="btn btn-default btn-success comment_btn">发表评论</button>
+						class="btn btn-default btn-success comment_btn" onclick="javascript:comment()">发表评论</button>
 				</div>
 				<div>评论区：</div>
 
 				<div id="commentsplace">
 					<div id="comlist">
 						<ul class="clearfix">
+							<li id="commentDiv"class="clearfix commentslist_li ">
+								<div class="row clearfix">
+									<div class="col-md-2 column">
+										<img alt="" src="images/4.jpg" class="img_comment_info" /> <label
+											class="comment_name">yxy1994</label>
+									</div>
+									<div class="col-md-10 column">
+										<p id="commentss" class="comments">1234567890</p>
+										<label class="comment_time">发布时间：2017/4/10 15:30</label> <a
+											href="javascript:;" class="re re_start reply_btn"
+											_hover-ignore="1" _orighref="javascript:;" _tkworked="true">回复</a>
+									</div>
+								</div>
+							</li>
 							<li class="clearfix commentslist_li">
 								<div class="row clearfix">
 									<div class="col-md-2 column">
@@ -264,7 +278,7 @@
 									</div>
 									<div class="col-md-10 column">
 										<p class="comments">赞~\(≧▽≦)/~</p>
-										<label class="comment_time">发布时间：2017/4/9 20:12</label> <a
+										<label class="comment_time">发布时间：2017/4/9 20:24</label> <a
 											href="javascript:;" class="re re_start reply_btn"
 											_hover-ignore="1" _orighref="javascript:;" _tkworked="true">回复</a>
 									</div>
@@ -292,7 +306,7 @@
 									</div>
 									<div class="col-md-10 column">
 										<p class="comments">还不错的样子（（（</p>
-										<label class="comment_time">发布时间：2017/4/9 20:24</label> <a
+										<label class="comment_time">发布时间：2017/4/9 20:12</label> <a
 											href="javascript:;" class="re re_start reply_btn"
 											_hover-ignore="1" _orighref="javascript:;" _tkworked="true">回复</a>
 									</div>

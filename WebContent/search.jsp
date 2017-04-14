@@ -167,14 +167,14 @@
 					</ul>
 				</div>
 			</div>
-			<div class="col-md-9 column searchbox">
+			<div class="col-md-9 column ">
 				<ul class="breadcrumb">
 					<li><a href="index.jsp">首页</a></li>
-					<li class="active">搜索</a></li>
-					<li class="active">"搅拌机""草莓"</li>
+					<li class="active">搅拌机 草莓</li>
 				</ul>
 				<!-- begin -->
 				<div class="row clearfix searchItem">
+				
 					<div class="col-md-4 column">
 						<a href="recipe.jsp"> <img class="listImg" src="images/search/01.png"
 							alt="草莓奶昔" />
@@ -212,11 +212,144 @@
 							<div class="searchView">
 								<i class="search-icon search-icon-view "></i> 580
 							</div>
-						</div>
-						
-						
+						</div>					
+					
+				</div>
+				<div class="col-md-2 column"></div>
+				</div>
+				<!-- end -->
+				<!-- begin -->
+				<div class="row clearfix searchItem">
+					<div class="col-md-4 column">
+						<a href="recipe.jsp"> <img class="listImg" src="images/search/02.jpg"
+							alt="草莓奶昔" />
+						</a>
 					</div>
+					<div class="col-md-6 column">
+						<a href="recipe.jsp">
+							<div class="searchTitle">简单可口的草莓奶昔~</div>
+						</a>
+						<div class="searchInfo">
+						<span
+							class="tip">#草莓</span> <span
+							class="tip">#奶昔</span>
+							<span
+							class="tip">#搅拌机</span>
+					</div>
+						<div class="searchInfo">
+							<div class="searchOwn">
+								<i class="search-icon search-icon-own "></i> 吃货y
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchDate">
+								<i class="search-icon search-icon-date "></i> 2017-04-08 08:50
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchSave">
+								<i class="search-icon search-icon-save "></i> 267
+							</div>
+							<div class="searchReply">
+								<i class="search-icon search-icon-reply "></i> 7
+							</div>
+						
+							<div class="searchView">
+								<i class="search-icon search-icon-view "></i> 470
+							</div>
+						</div>	
+						</div>				
 					<div class="col-md-2 column"></div>
+				</div>
+				<!-- end -->
+				<!-- begin -->
+				<div class="row clearfix searchItem">
+				
+					<div class="col-md-4 column">
+						<a href="recipe.jsp"> <img class="listImg" src="images/search/03.jpg"
+							alt="草莓奶昔" />
+						</a>
+					</div>
+					<div class="col-md-6 column">
+						<a href="recipe.jsp">
+							<div class="searchTitle">夏天喝草莓奶昔最棒啦~快來一起学吧~</div>
+						</a>
+						<div class="searchInfo">
+						 <span
+							class="tip">#草莓</span> <span
+							class="tip">#奶昔</span>
+							
+					</div>
+						<div class="searchInfo">
+							<div class="searchOwn">
+								<i class="search-icon search-icon-own "></i> 默念
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchDate">
+								<i class="search-icon search-icon-date "></i> 2017-04-06 14:35
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchSave">
+								<i class="search-icon search-icon-save "></i> 556
+							</div>
+							<div class="searchReply">
+								<i class="search-icon search-icon-reply "></i> 23
+							</div>
+						
+							<div class="searchView">
+								<i class="search-icon search-icon-view "></i> 670
+							</div>
+						</div>					
+					
+				</div>
+				<div class="col-md-2 column"></div>
+				</div>
+				<!-- end -->
+				<!-- begin -->
+				<div class="row clearfix searchItem">
+				
+					<div class="col-md-4 column">
+						<a href="recipe.jsp"> <img class="listImg" src="images/search/04.jpg"
+							alt="草莓奶昔" />
+						</a>
+					</div>
+					<div class="col-md-6 column">
+						<a href="recipe.jsp">
+							<div class="searchTitle">「草莓奶昔」 在家十分钟即成~</div>
+						</a>
+						<div class="searchInfo">
+						 <span
+							class="tip">#草莓</span> <span
+							class="tip">#奶昔</span>
+							
+					</div>
+						<div class="searchInfo">
+							<div class="searchOwn">
+								<i class="search-icon search-icon-own "></i> 山兔兔
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchDate">
+								<i class="search-icon search-icon-date "></i> 2017-04-04 16:28
+							</div>
+						</div>
+						<div class="searchInfo">
+							<div class="searchSave">
+								<i class="search-icon search-icon-save "></i> 178
+							</div>
+							<div class="searchReply">
+								<i class="search-icon search-icon-reply "></i> 2
+							</div>
+						
+							<div class="searchView">
+								<i class="search-icon search-icon-view "></i> 330
+							</div>
+						</div>					
+					
+				</div>
+				<div class="col-md-2 column"></div>
 				</div>
 				<!-- end -->
 				<div class="pageControl">
@@ -233,5 +366,6 @@
 			</div>
 		</div>
 	</div>
+	<%@include file="bottom.jsp"%>
 </body>
 </html>

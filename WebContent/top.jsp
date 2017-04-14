@@ -21,7 +21,9 @@
 		</div>
 		<div class="row clearfix">
 			<div class="col-md-2 column">
+			<a href="index.jsp">
 				<img alt="" src="images/123456.png" class="main_logo" />
+				</a>
 			</div>
 			<div class="col-md-10 column">
 				<div class="search radius6">
