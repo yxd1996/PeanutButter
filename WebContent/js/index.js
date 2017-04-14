@@ -36,7 +36,7 @@ $(document).ready(function(){
 	var autoMove = setInterval(function(){
 		indexImg;
 		toRight()
-	},2000);
+	},4000);
 	
 	$("div.banner").hover(function(){
 		clearInterval(autoMove);
@@ -44,7 +44,7 @@ $(document).ready(function(){
 		autoMove=setInterval(function(){
 			indexImg;
 			toRight();
-		},2000);
+		},4000);
 	});
 	
 	$("ul.recommend_page li").hover(function(){

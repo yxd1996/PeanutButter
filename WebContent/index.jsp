@@ -196,9 +196,9 @@
 			<div class="col-md-9 column">
 				<div class="banner">
 					<ul class="recommend_pic">
-						<li><img src="images/001.jpg"></li>
-						<li><img src="images/002.jpg"></li>
-						<li><img src="images/003.jpg"></li>
+						<li><a href="#"><img src="images/001.jpg"></a></li>
+						<li><a href="#"><img src="images/002.jpg"></a></li>
+						<li><a href="#"><img src="images/003.jpg"></a></li>
 					</ul>
 					<ul class="recommend_page">
 						<li></li>
