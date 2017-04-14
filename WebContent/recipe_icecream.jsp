@@ -12,6 +12,7 @@
 <link href="css/recipe.css" rel='stylesheet' type='text/css' />
 <link href="css/top.css" rel='stylesheet' type='text/css' />
 <link href="css/bottom.css" rel='stylesheet' type='text/css' />
+<script src="js/save.js"></script>
 </head>
 <body>
 	<%@include file="top.jsp"%>
@@ -37,8 +38,8 @@
 							class="label label-default tip">#冰淇淋</span> 
 					</div>
 					<div class="col-md-2 column">
-						<button type="button"
-							class="btn btn-default btn-warning collect_btn">收藏</button>
+						<button id="savebutton" type="button"
+							class="btn btn-default btn-warning collect_btn" onclick="javascript:save()">收藏</button>
 					</div>
 				</div>
 				<img alt="" src="images/catalog/icecream/icecream02.png"
