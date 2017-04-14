@@ -30,9 +30,10 @@ body {
 .focus_btn {
 	margin-top: 15px;
 	margin-left: 20%;
-	width: 60%;
-	height: 40px;
-	font-size: 16px;
+	color:#FFFFFF;
+	background-color:#9a5034;
+	border-radius:5px;
+	box-shadow:none;
 }
 
 .designer_info {

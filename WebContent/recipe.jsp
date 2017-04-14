@@ -12,6 +12,7 @@
 <link href="css/recipe.css" rel='stylesheet' type='text/css' />
 <link href="css/top.css" rel='stylesheet' type='text/css' />
 <link href="css/bottom.css" rel='stylesheet' type='text/css' />
+<script src="js/recipe.js"></script>
 </head>
 <body>
 	<%@include file="top.jsp"%>
@@ -23,8 +24,8 @@
 				<img alt="" src="images/0.jpg" class="img-circle" /> <label
 					class="name">cy</label>
 					</a>
-				<p class="signature">这个人很懒，什么都没有留下~</p>
-				<button type="button" class="btn btn-default btn-success focus_btn">关注TA</button>
+				<p class="signature">这里cy,最爱吃草莓,也喜欢做些简单的食物^^</p>
+				<button id="likeBtn" type="button" class="btn focus_btn" onclick="javascript:like()">关注TA</button>
 			</div>
 			<!-- ——————————————————个人信息部分 结束——————————————————-->
 
@@ -40,7 +41,7 @@
 					</div>
 					<div class="col-md-2 column">
 						<button type="button"
-							class="btn btn-default btn-warning collect_btn">收藏</button>
+							class="btn btn-default btn-warning collect_btn" onclick="javascript:save()">收藏</button>
 					</div>
 				</div>
 				<img alt="" src="images/201704120001/201704120000.png"
