@@ -88,6 +88,8 @@ body{
 	border-radius:5px;
 	box-shadow:none;
 	outline:0;
+	width:5em;
+	text-align:center;
 }
 
 .myworks-box{

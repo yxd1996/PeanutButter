@@ -25,7 +25,7 @@
 					class="name">cy</label>
 					</a>
 				<p class="signature">这里cy,最爱吃草莓,也喜欢做些简单的食物^^</p>
-				<button id="likeBtn" type="button" class="btn focus_btn" onclick="javascript:like()">关注TA</button>
+				<button id="likeBtn" style="font-family: '微软雅黑';" type="button" class="btn focus_btn" onclick="javascript:like()">关注TA</button>
 			</div>
 			<!-- ——————————————————个人信息部分 结束——————————————————-->
 
@@ -40,7 +40,7 @@
 							class="label label-default tip">#奶昔</span>
 					</div>
 					<div class="col-md-2 column">
-						<button id="savebutton" type="button"
+						<button id="savebutton" type="button" style="font-family: '微软雅黑';"
 							class="btn btn-default btn-warning collect_btn" onclick="javascript:save()">收藏</button>
 					</div>
 				</div>

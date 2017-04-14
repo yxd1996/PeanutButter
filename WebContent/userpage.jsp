@@ -48,7 +48,7 @@
 				<!-- 选项 -->
 				<div class="option-box">
 					<div class="option-list">
-						<button id="likeBtn" class="btn option-item" onclick="javascript:like()">关注TA</button>
+						<button id="likeBtn"  style="font-family: '微软雅黑';" class="btn option-item" onclick="javascript:like()" >关注TA</button>
 					</div>
 				</div>
 
@@ -173,8 +173,8 @@
 					</div>
 
 				</div>
-				<div style="width: 100%; height: 2em;">
-					<Button style="float: right;" class="btn btn-link" type="button">更多>></Button>
+				<div style="width: 100%; height: 2em;"> 
+					<Button style="float: right;font-family: '微软雅黑';" class="btn btn-link" type="button">更多>></Button>
 				</div>
 
 				<!-- ——————————————————我发布的—————————————————— -->
@@ -299,7 +299,7 @@
 					</div>
 				</div>
 				<div style="width: 100%; height: 50px;">
-					<Button style="float: right;" class="btn btn-link" type="button">更多>></Button>
+					<Button style="float: right;font-family: '微软雅黑';" class="btn btn-link" type="button">更多>></Button>
 				</div>
 				<!-- ——————————————————我收藏的—————————————————— -->
 

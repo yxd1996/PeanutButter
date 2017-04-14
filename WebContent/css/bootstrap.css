@@ -6,7 +6,7 @@
  */
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 html {
-	font-family: sans-serif;
+	font-family: "Î¢ÈíÑÅºÚ";
 	line-height: 1.15;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
@@ -2604,6 +2604,7 @@ select.form-control-lg:not ([size] ):not ([multiple] ), .input-group-lg>select.f
 	-webkit-transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
+		
 }
 
 .btn:focus, .btn:hover {

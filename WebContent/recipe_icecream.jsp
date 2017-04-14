@@ -24,7 +24,7 @@
 				<img alt="" src="images/876.jpeg" class="img-circle" /> <label
 					class="name">udani</label>
 				<p class="signature">这个人很懒，什么都没有留下~</p>
-				<button id="likeBtn" type="button" class="btn focus_btn" onclick="javascript:like()">关注TA</button>
+				<button id="likeBtn"  style="font-family: '微软雅黑';" type="button" class="btn focus_btn" onclick="javascript:like()">关注TA</button>
 			</div>
 			<!-- ——————————————————个人信息部分 结束——————————————————-->
 
@@ -38,7 +38,7 @@
 							class="label label-default tip">#冰淇淋</span> 
 					</div>
 					<div class="col-md-2 column">
-						<button id="savebutton" type="button"
+						<button id="savebutton" type="button" style="font-family: '微软雅黑';"
 							class="btn btn-default btn-warning collect_btn" onclick="javascript:save()">收藏</button>
 					</div>
 				</div>

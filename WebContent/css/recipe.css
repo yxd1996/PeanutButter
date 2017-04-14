@@ -34,6 +34,8 @@ body {
 	background-color:#9a5034;
 	border-radius:5px;
 	box-shadow:none;
+	width:5em;
+	text-align:center;
 }
 
 .designer_info {
