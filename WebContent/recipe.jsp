@@ -40,7 +40,7 @@
 							class="label label-default tip">#奶昔</span>
 					</div>
 					<div class="col-md-2 column">
-						<button type="button"
+						<button id="savebutton" type="button"
 							class="btn btn-default btn-warning collect_btn" onclick="javascript:save()">收藏</button>
 					</div>
 				</div>
@@ -156,6 +156,20 @@
 				<div id="commentsplace">
 					<div id="comlist">
 						<ul class="clearfix">
+							<li id="commentDiv"class="clearfix commentslist_li ">
+								<div class="row clearfix">
+									<div class="col-md-2 column">
+										<img alt="" src="images/4.jpg" class="img_comment_info" /> <label
+											class="comment_name">yxy1994</label>
+									</div>
+									<div class="col-md-10 column">
+										<p id="commentss" class="comments">1234567890</p>
+										<label class="comment_time">发布时间：2017/4/10 15:30</label> <a
+											href="javascript:;" class="re re_start reply_btn"
+											_hover-ignore="1" _orighref="javascript:;" _tkworked="true">回复</a>
+									</div>
+								</div>
+							</li>
 							<li class="clearfix commentslist_li">
 								<div class="row clearfix">
 									<div class="col-md-2 column">
@@ -164,7 +178,7 @@
 									</div>
 									<div class="col-md-10 column">
 										<p class="comments">赞~\(≧▽≦)/~</p>
-										<label class="comment_time">发布时间：2017/4/9 20:12</label> <a
+										<label class="comment_time">发布时间：2017/4/9 20:24</label> <a
 											href="javascript:;" class="re re_start reply_btn"
 											_hover-ignore="1" _orighref="javascript:;" _tkworked="true">回复</a>
 									</div>
@@ -192,14 +206,10 @@
 									</div>
 									<div class="col-md-10 column">
 										<p class="comments">还不错的样子（（（</p>
-										<label class="comment_time">发布时间：2017/4/9 20:24</label> <a
+										<label class="comment_time">发布时间：2017/4/9 20:12</label> <a
 											href="javascript:;" class="re re_start reply_btn"
 											_hover-ignore="1" _orighref="javascript:;" _tkworked="true">回复</a>
 									</div>
-									<form action=""></form>
-									
-									
-									
 								</div>
 							</li>
 						</ul>
@@ -221,6 +231,9 @@
 			<!-- ——————————————————主体制作部分 结束—————————————————— -->
 
 			<div class="col-md-2 column"></div>
+			<a href="#">
+						<img class="pull-right" src="images/backtotop.png"></img>
+			</a>
 		</div>
 	</div>
 	<%@include file="bottom.jsp"%>

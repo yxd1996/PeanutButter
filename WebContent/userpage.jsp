@@ -6,10 +6,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>花生酱|cy的主页</title>
 <link href="css/base.css" rel='stylesheet' type='text/css' />
-<link href="css/top.css" rel="stylesheet" type="text/css" />
 <link href="css/style.css" rel='stylesheet' type='text/css' />
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+<link href="css/top.css" rel='stylesheet' type='text/css' />
+<link href="css/bottom.css" rel='stylesheet' type='text/css' />
 <link href="css/userpage.css" rel='stylesheet' type='text/css' />
+
 <script src="js/userpage.js"></script>
 </head>
 <body>
@@ -182,7 +184,7 @@
 					<h2 id="favorite-header" class="myworks-title">TA收藏的</h2>
 				</div>
 
-
+				<div class="text-cap"></div>
 
 				<div class="row clearfix">
 					<!-- begin -->
@@ -307,5 +309,6 @@
 
 
 	</div>
+	<%@include file="bottom.jsp"%>
 </body>
 </html>

@@ -331,6 +331,9 @@
 			<!-- ——————————————————主体制作部分 结束—————————————————— -->
 
 			<div class="col-md-2 column"></div>
+			<a href="#">
+						<img class="pull-right" src="images/backtotop.png"></img>
+					</a>
 		</div>
 	</div>
 	<%@include file="bottom.jsp"%>
