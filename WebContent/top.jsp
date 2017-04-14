@@ -13,8 +13,8 @@
 				<div class="top_right">
 					<ul>
 						<li>yxy1994</li>
-						<a href="#">
-							<img alt="mypage.jsp" src="images/4.jpg" class="touxiang_head" />
+						<a href="mypage.jsp">
+							<img  src="images/4.jpg" class="touxiang_head" />
 						</a>
 						<li><a href="login.jsp">&nbsp;退出</a></li>
 					</ul>
@@ -28,6 +28,7 @@
 				</a>
 			</div>
 			<div class="col-md-10 column">
+			<div class="row clearfix">
 			<div class="col-md-11 column">
 				<div class="search radius6">
 					<form name="searchform" method="post" action="search.jsp">
@@ -41,12 +42,13 @@
 							<input class="btn_srh" type="submit" name="submit" value="搜索">
 					</form>
 				</div>
-				</div>
-				<div class="col-md-1 column">
-						<a href="#"><button class="fabu">发布甜品</button></a>
-				</div>
-				
 			</div>
+			<div class="col-md-1 column">
+				<a href="#"><button class="fabu">发布甜品</button></a>
+			</div>
+			</div>
+				
+		</div>
 			<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
 			<script type="text/javascript" src="js/jquery.select.js"></script>
 		</div>

@@ -16,7 +16,7 @@
 </head>
 <body>
 	<%@include file="top.jsp"%>
-	<div class="container">
+	<div class="container" style="margin-top: 20px;">
 		<!-- ——————————————————个人信息部分 开始——————————————————-->
 		<div class="row clearfix">
 			<div class="col-md-2 column">
