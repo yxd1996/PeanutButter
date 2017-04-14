@@ -19,9 +19,10 @@
 		<!-- ——————————————————个人信息部分 开始——————————————————-->
 		<div class="row clearfix">
 			<div class="col-md-2 column">
-
+				<a href="userpage.jsp"  target="_blank">
 				<img alt="" src="images/0.jpg" class="img-circle" /> <label
 					class="name">cy</label>
+					</a>
 				<p class="signature">这个人很懒，什么都没有留下~</p>
 				<button type="button" class="btn btn-default btn-success focus_btn">关注TA</button>
 			</div>
