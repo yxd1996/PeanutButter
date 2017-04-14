@@ -98,18 +98,12 @@ body a {
 	color: #FFC083;
 }
 
-#pull-right {
+.pull-right {
 	position: fixed;
-    right: 100px;
-    bottom: 100px; 
-    background: #f6f9fa url(../images/icons.png) -648px -72px no-repeat;
-    border: 1px solid #e5e9ef;
-    overflow: hidden;
-    border-radius: 4px;
-    height:48px;
-    width:48px;
-    cursor:pointer;
-	display:block;
+    right: 15px;
+    bottom: 15px;  
+    height:40px;
+    width:40px;
 }
 
 .divvv{
