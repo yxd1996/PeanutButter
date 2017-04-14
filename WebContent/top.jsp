@@ -5,7 +5,6 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>花生酱</title>
-<link href="css/top.css" rel='stylesheet' type='text/css' />
 </head>
 <body>
 	<div class="container">
