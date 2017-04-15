@@ -168,7 +168,7 @@
 				<li>
 					 <a href="#">Next</a>
 				</li>
-			</ul>
+			</ul>	
 			</div>
 		</div>
 
