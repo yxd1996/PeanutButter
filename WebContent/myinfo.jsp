@@ -11,10 +11,11 @@
 <link href="css/top.css" rel='stylesheet' type='text/css' />
 <link href="css/bottom.css" rel='stylesheet' type='text/css' />
 <link href="css/mypage.css" rel='stylesheet' type='text/css' />
+<link href="css/myinfo.css" rel='stylesheet' type='text/css' />
 </head>
 <body>
 	<%@include file="top.jsp"%>
-	<div class="container"  style="margin-top: 20px;">
+	<div class="container" style="margin-top: 20px;">
 		<!-- ——————————————————个人信息部分 ——————————————————-->
 		<div class="row clearfix">
 			<div class="col-md-2 column">
@@ -46,9 +47,9 @@
 				<!-- 选项 -->
 				<div class="option-box">
 					<div class="option-list">
-						<a href="mypage.jsp"><button class="btn option-item">我发布的</button> </a>
-						<a href="mysave.jsp"><button class="btn option-item">我收藏的</button></a>
-						<a href="mysetting.jsp"><button class="btn option-item  " >我的设置</button></a>
+						<a href="mypage.jsp"><button class="btn option-item">我发布的</button>
+						</a> <a href="mysave.jsp"><button class="btn option-item">我收藏的</button></a>
+						<a href="mysetting.jsp"><button class="btn option-item  ">我的设置</button></a>
 						<a href="myinfo.jsp"><button class="btn option-item active">我的消息</button></a>
 					</div>
 				</div>
@@ -62,9 +63,112 @@
 					<h1 id="post-header" class="myworks-title">我的消息</h1>
 				</div>
 				<div class="text-cap"></div>
+				<div class="info_header">
+					<label>&nbsp;&nbsp;共3个消息/</label> <label class="weidu">1</label> <label>个未读</label>
+					<input type="checkbox" class="quanxuan" id="qx"> <label
+						for="qx">全选</label>
+					<button>删除选中消息</button>
+				</div>
+				<div class="row clearfix msgbox">
+					<div class="col-md-2 column">
+						<label>2017/04/07</label>
+					</div>
+					<div class="col-md-2 column">
+						<label>[系统消息]</label>
+					</div>
+					<div class="col-md-8 column">
+						<label class="msgname">客服小花</label>
+						<p>
+							亲爱的花生儿，春天气候多变，汤中加入胡萝卜有明目养眼、补气护肝的功效，富含的维生素不仅能增强抵抗力，还可以美容护肤，如此功效全面的养生好汤，一下就轻松应对全家老小健康需求~ 现在，就跟着丽思卡尔顿酒店行政主厨古志辉大厨来学做《春日养生黑鱼豆腐汤》吧～
+						</p>
+					</div>
+				</div>
+
+				<div class="row clearfix msgbox">
+					<div class="col-md-2 column">
+						<label>2017/04/06</label>
+					</div>
+					<div class="col-md-2 column">
+						<label>[评论消息]</label>
+					</div>
+					<div class="col-md-8 column">
+						<label class="msgname">蓝色的天空</label>
+						<p>
+							评论了您的甜点：
+						</p>
+						<a href="http://localhost:8888/PeanutButter/recipe.jsp">http://localhost:8888/PeanutButter/recipe.jsp</a>
+						<li> </li>
+					</div>
+				</div>
 				
-
-
+				<div class="row clearfix msgbox">
+					<div class="col-md-2 column">
+						<label>2017/04/06</label>
+					</div>
+					<div class="col-md-2 column">
+						<label>[关注消息]</label>
+					</div>
+					<div class="col-md-8 column">
+						<label class="msgname">小可爱</label>
+						<p>
+							关注了您哟~
+						</p>
+						
+					</div>
+				</div>
+				<div class="row clearfix msgbox">
+					<div class="col-md-2 column">
+						<label>2017/04/06</label>
+					</div>
+					<div class="col-md-2 column">
+						<label>[关注消息]</label>
+					</div>
+					<div class="col-md-8 column">
+						<label class="msgname">achoav</label>
+						<p>
+							关注了您哟~
+						</p>
+						
+					</div>
+				</div>
+				<div class="row clearfix msgbox">
+					<div class="col-md-2 column">
+						<label>2017/04/06</label>
+					</div>
+					<div class="col-md-2 column">
+						<label>[关注消息]</label>
+					</div>
+					<div class="col-md-8 column">
+						<label class="msgname">78647365</label>
+						<p>
+							关注了您哟~
+						</p>
+						
+					</div>
+				</div>
+				<ul class="pagination">
+				<li>
+					 <a href="#">Prev</a>
+				</li>
+				<li>
+					 <a href="#">1</a>
+				</li>
+				<li>
+					 <a href="#">2</a>
+				</li>
+				<li>
+					 <a href="#">3</a>
+				</li>
+				<li>
+					 <a href="#">4</a>
+				</li>
+				<li>
+					 <a href="#">5</a>
+				</li>
+				<li>
+					 <a href="#">Next</a>
+				</li>
+			</ul>
 			</div>
 		</div>
 
