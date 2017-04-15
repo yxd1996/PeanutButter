@@ -46,10 +46,11 @@
 				<!-- 选项 -->
 				<div class="option-box">
 					<div class="option-list">
-						<a href="mypage.jsp"><button class="btn option-item ">我发布的</button> </a>
-						<a href="mysave.jsp"><button class="btn option-item ">我收藏的</button></a>
-						<a href="mysetting.jsp "><button class="btn option-item active" >我的设置</button></a>
-						<a href="myinfo.jsp"><button class="btn option-item ">我的消息</button></a>
+						<a href="mypage.jsp"><button class="btn option-item ">我发布的</button>
+						</a> <a href="mysave.jsp"><button class="btn option-item ">我收藏的</button></a>
+						<a href="mysetting.jsp "><button
+								class="btn option-item active">我的信息</button></a> <a
+							href="myinfo.jsp"><button class="btn option-item ">我的消息</button></a>
 					</div>
 				</div>
 
@@ -59,15 +60,62 @@
 			<!-- ——————————————————我发布的—————————————————— -->
 			<div class="col-md-9 column text-top">
 				<div class="myworks-titleline">
-					<h1 id="post-header" class="myworks-title">我的设置</h1>
+					<h1 id="post-header" class="myworks-title">我的信息</h1>
 				</div>
 				<div class="text-cap"></div>
-
+				<div>
+					<div class="sr-b">
+						<ul>
+							<li>
+								<div class="sb-info">
+									<p class="sbi-l">昵称：</p>
+									<div class="sbi-m">
+										<span><input class="user-id" type="text" name="uname"
+											value="yxy1994"></span>
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="sb-info">
+									<p class="sbi-l">用户名：</p>
+									<div class="sbi-m">
+										<span>yxy1994</span>
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="sb-info">
+									<p class="sbi-l">我的签名：</p>
+									<div class="sbi-m">
+									<span>
+										<textarea name="sign" class="my-sign"></textarea>
+											</span>
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="sb-info">
+									<p class="sbi-l">性别：</p>
+									<input type="hidden" name="sex" id="select_sex" value="女" />
+									<div class="sbi-m">
+										<ul class="sex" id="sex_ul">
+											<span  data-sex="男">男</span>
+											<span class="blue" data-sex="女">女</span>
+											<span data-sex="保密">保密</span>
+										</ul>
+									</div>
+								</div>
+							</li>
+							
+					</div>
+				<input type="submit" class="sb-save" value="保存" >			
+				</div>
+				
+				
 			</div>
+
+
 		</div>
-
-
-	</div>
-	<%@include file="bottom.jsp"%>
+		<%@include file="bottom.jsp"%>
 </body>
 </html>
