@@ -64,7 +64,7 @@
 				</div>
 				<div class="text-cap"></div>
 				<div class="page-tip">
-				你还没有发布过甜品哦~<a href="#">立即上传</a>
+				你还没有发布过甜品哦~<a href="#">现在发布</a>
 				</div>
 
 
