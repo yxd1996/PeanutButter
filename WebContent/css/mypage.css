@@ -147,3 +147,78 @@ body{
 	display:block;
 	text-align:center;
 }
+
+.sr-b {
+    padding: 20px 20px 0;
+}
+
+.sb-info {
+    position: relative;
+    height: 28px;
+    line-height: 28px;
+    color: #666;
+    clear: both;
+}
+
+
+.sbi-l {
+    width: 95px;
+    text-align: right;
+    margin-right: 23px;
+}
+
+.sbi-m {
+    float: left;
+    margin-left: 105px;
+    margin-top: -43px;
+}
+
+.sbi-m input {
+    width: 218px;
+    height: 26px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    line-height: 26px;
+    padding-left: 5px;
+
+}
+.sr-t {
+    height: 50px;
+    padding-left: 30px;
+    border-bottom: 1px solid #ddd;
+}
+
+	
+.sex div {
+    float: left;
+    height: 20px;
+    width:3em;
+    padding: 0 8px;
+    line-height: 20px;
+    border-radius: 3px;
+    margin-right: 20px;
+    background: #f4f4f4;
+    cursor: pointer;
+}
+
+.sex .blue {
+    color: #fff !important;
+    background: #9a5034 !important;
+}
+
+.sb-save {
+    position: relative;
+    left: 200px;
+    width: 4em;
+    height: 35px;
+    background: #9a5034;
+    border-radius: 3px;
+    text-align: center;
+    color: #fff;
+    line-height: 35px;
+}
+
+.my-sign{
+	width:20em;
+	height:6em;
+}
